@@ -46,7 +46,10 @@ You’ll also want to do a cost-benefit analysis to determine if the costs assoc
 ### Product Roadmap
 
 ### Glossary of Terms
-|Terms|Description|
+| BUSINESS TERM | TERM DESCRIPTION |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ### References
 

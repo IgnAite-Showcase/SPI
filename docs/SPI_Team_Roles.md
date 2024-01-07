@@ -7,6 +7,9 @@
 - Bhairavi Bhongade
 - Parth Burde (SVP)
 - Harsh Kalbande (SVP)
+- Smit Hiwale
+- Geetika Mahant 
+
 
 
 
@@ -14,6 +17,9 @@
 
 ### 2. Application Development
    Features, Authentication, Authorization, development and deployment of application
+- Kunal Wadibhasme
+- 
+
 
 
 

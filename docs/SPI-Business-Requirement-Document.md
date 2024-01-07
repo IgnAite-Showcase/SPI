@@ -38,16 +38,17 @@ After summarizing the issue you plan to address in the project, you’ll want to
 - C: End User
 
 ### Design Thinking:
-- Empathise
-- Experience
-- Define
-- Ideate
-- Prototype (POC, POT, PILOT, MVP)
-- Test
-- Implement
-- Demo
-- Retro
-- Feedback
+1. Empathise: Experience
+2. Define
+3. Ideation:
+  In the ideation phase, you’ll explore and come up with as many ideas as possible. Some of these ideas will go on to be potential solutions to your design challenge; some will end up on the reject pile. <p>
+  Methods (Brainstorm, Braindump, Brainwrite, Brainwalk, Challenge Assumptions, SCAMPER, Mindmap, Sketch or Sketchstorm, Storyboard, Analogies, Provocation, Movement, Bodystorm, Gamestorming, Cheatstorm, Crowdstorm, Co-Creation Workshops, Prototype, Creative Pause) <p>
+  Selection methods (Post-it Voting or Dot Voting, Four Categories Method, Bingo Selection, Idea Affinity Maps, 
+Now Wow How Matrix, Six Thinking Hats, Lean Startup Machine Idea Validation Board, Idea Selection Criteria)
+4. Prototype
+  Typically done by (POC, POT, PILOT, MVP)
+5. Test:
+  Purpose of this phase is to showcase Prototypy by (Implement, Demo, Retro, Feedback, Analyze, Propose Enhancement)
 
 ### Analysis
 - SWOT Analysis - SWOT is an acronym for Strengths, Weaknesses, Opportunities, and Threats. The analysis utilizes these headings in a quadrant format (Fig. 1) to list core competencies and other relevant company traits and characteristics. It’s a visual tool to help you see how the company is currently positioned and provides insight on what areas the company should be addressing in the near the future.

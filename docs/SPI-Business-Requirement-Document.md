@@ -48,8 +48,8 @@ You’ll also want to do a cost-benefit analysis to determine if the costs assoc
 ### Glossary of Terms
 | BUSINESS TERM | TERM DESCRIPTION |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| SPI  | Startup Performance Index  |
+| Angel Investors  | Provide financial support to early-stage startup companies in exchange for ownership equity or convertible debt  |
 
 ### References
 

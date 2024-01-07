@@ -1,8 +1,8 @@
 # SPI Team Roles And Responsibilities
 
 ### 1. Business Analysis
-Objectives: Planning the Project, Understand the Business Objectives, Gather Requirements, Allocate Resources, Provide Suggestions, Collect Feedback, Build Reports, Conduct Meetings, Documentation and Presentation 
-Deliverable: Business Requirement Documentation(BRD), 
+**Objectives:** Planning, Designing, Business Objectives, Gather Requirements, Allocate Resources, Provide Suggestions, Collect Feedback, Build Reports, Meetings, Documentation and Presentation <br>
+**Deliverable:** Business Requirement Documentation(BRD), 
 - Vishakha Sharma (RCOEM)
 - Smit Khobragade (RCOEM)
 - Bhairavi Bhongade

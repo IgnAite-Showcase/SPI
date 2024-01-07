@@ -2,8 +2,8 @@
 
 ### 1. Business Analysis
 **Objectives:** Planning, Designing, Business Objectives, Gather Requirements, Allocate Resources, Provide Suggestions, Collect Feedback, Build Reports, Meetings, Documentation and Presentation <br>
-**Tech Stack:** Inhouse tool and Standard Operating Procedure (SOP)
-**Deliverable:** Business Requirement Documentation(BRD)
+**Tech Stack:** Inhouse tool and Standard Operating Procedure (SOP)<br>
+**Deliverable:** Business Requirement Documentation(BRD)<br>
 
 - Vishakha Sharma (RCOEM)
 - Smit Khobragade (RCOEM)
@@ -14,9 +14,9 @@
 - Geetika Mahant
   
 ### 2. Application Development
-**Objectives:** Features, Authentication, Authorization, development and deployment of application
-**Tech Stack:** : Oracle Apex Low/No Code, Java Script, K8s, HTML React.
-**Deliverable:** 
+**Objectives:** Features, Authentication, Authorization, development and deployment of application<br>
+**Tech Stack:** : Oracle Apex Low/No Code, Java Script, K8s, HTML React.<br>
+**Deliverable:** <br>
 
 - Kunal Wadibhasme
 - Aishwarya Umare 
@@ -30,9 +30,9 @@
 - Soham Warke
   
 ### 3. Data Analytics
-**Objectives:** Collect, Clean and interpret data , BI reporting, Dashboards (Extracting data, analyzing and interpreting trends, data visualization)
-**Tech Stack:** : 
-**Deliverable:** 
+**Objectives:** Collect, Clean and interpret data , BI reporting, Dashboards (Extracting data, analyzing and interpreting trends, data visualization)<br>
+**Tech Stack:** <br>
+**Deliverable:** <br>
 
 - Aayush Dalal
 - Shreyas Raut
@@ -46,8 +46,8 @@
   
 ### 4. Artificial Intelligence
 **Objectives:** Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 
-**Tech Stack:** : 
-**Deliverable:** 
+**Tech Stack:** <br>
+**Deliverable:** <br>
 
 - Aryan_Kumar
 - Praneel Thaker
@@ -61,8 +61,8 @@
   
 ### 5. Data Management
 **Objectives:** Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality
-**Tech Stack:** : 
-**Deliverable:** 
+**Tech Stack:** <br>
+**Deliverable:** <br>
 
 - Ayum Padole
 - Amey Katre 

@@ -1,7 +1,15 @@
 # SPI Team Roles And Responsibilities
 
-### 1. Business Analysis -
+### 1. Business Analysis - 
    Planning the Project, Understand the Business Objectives, Gather Requirements, Allocate Resources, Provide Suggestions, Collect Feedback, Build Reports, Conduct Meetings, Documentation and Presentation 
+- Vishakha Sharma (RCOEM)
+- Smit Khobragade (RCOEM)
+- Bhairavi Bhongade
+- Parth Burde (SVP)
+- Harsh Kalbande (SVP)
+
+
+
 
 
 ### 2. Application Development
@@ -14,6 +22,10 @@
 ### 3. Data Analytics
    Collect, Clean and interpret data , BI reporting, Dashboards 
     (Extracting data, analyzing and interpreting trends, data visualization)
+- Aayush Dalal
+- 
+    
+
 
 
 

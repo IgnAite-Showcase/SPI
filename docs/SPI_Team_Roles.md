@@ -12,7 +12,7 @@
 
 
 ### 3. Data Analytics
-   Collect, Clean and interpret data 
+   Collect, Clean and interpret data , BI reporting, Dashboards 
     (Extracting data, analyzing and interpreting trends, data visualization)
 
 
@@ -20,13 +20,13 @@
 
 
 ### 4. Artificial Intelligence
-   
-
+   Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 
 
 
 
 
 ### 5. Data Management
+   Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality
 
 
 

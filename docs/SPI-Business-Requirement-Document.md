@@ -18,8 +18,8 @@
 
 ### Business Charter
 - Demogrphics: Idea Name, Description, Success Criteria
-- Team: Customer, Application users, Investor, Project Manager, Stakeholder 
-- Budget: Capital and Expense
+- Team: Customer, Application users, Investor, Project Manager, Stakeholder, Tech Lead
+- Budget: Capital and Expense, Return on Investment
 - Milestones: Deliverable timelines
 - Potential Risks: Subject Area, Risk, Level, Mitigation, Remediation 
 - Approvals: Approver Name, Title, Approval, Conditional Comments and Date Time
@@ -80,6 +80,13 @@ After summarizing the issue you plan to address in the project, you’ll want to
 ### Team:
 - Team Type
 - Key Stakeholders: Now you’ll want to identify and list the key stakeholders in the project. Once you have that list, assign roles and responsibilities to each. These might be people outside of your department so you should define their role in the success of the project. This information needs to be distributed in order for everyone to know what’s expected of them in the project. You can even use this section to assign tasks.
+
+### Organization Chart:
+
+### RACI Matrix: 
+A RACI chart is a tool that clarifies who does what in a project. It specifies the roles of responsible, accountable, consulted, and informed (RACI) for each task.
+- Development Roles RACI
+- Oppertional Support RACI
 
 ### Knowledgebase
 - Business Terms

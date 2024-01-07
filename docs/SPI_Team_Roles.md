@@ -5,18 +5,22 @@
 
 
 ### 2. Application Development
+   Features, Authentication, Authorization, development and deployment of application
 
 
 
 
 
 ### 3. Data Analytics
+   Collect, Clean and interpret data 
+    (Extracting data, analyzing and interpreting trends, data visualization)
 
 
 
 
 
 ### 4. Artificial Intelligence
+   
 
 
 

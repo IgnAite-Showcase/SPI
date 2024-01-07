@@ -90,11 +90,6 @@ A RACI chart is a tool that clarifies who does what in a project. It specifies t
 
 ### Knowledgebase
 - Business Terms
-| BUSINESS TERM | TERM DESCRIPTION |
-| ------------- | ------------- |
-| SPI  | Startup Performance Index  |
-| Angel Investors  | Provide financial support to early-stage startup companies in exchange for ownership equity or convertible debt  |
-| Venture Capatalist  | Emplloyee of the firm which invest in Startups  |
 - Technical Terms
 - Domain Knowledge
 - Ontology
@@ -116,6 +111,7 @@ Project Deliverable Schedule and Timelines and estimated costs
 - Vendor Selection
 - License (PayGo, Subscription, Purchase)
 - Cost mangement
+- TCO (Total Cost of Ownership)
 
 ### Appendix
 - Research References

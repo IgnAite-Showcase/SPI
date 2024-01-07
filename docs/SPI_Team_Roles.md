@@ -9,12 +9,6 @@
 - Harsh Kalbande (SVP)
 - Smit Hiwale
 - Geetika Mahant 
-
-
-
-
-
-
 ### 2. Application Development
    Features, Authentication, Authorization, development and deployment of application
 - Kunal Wadibhasme
@@ -27,12 +21,6 @@
 - Mrunmayee Talmale 
 - Sidd Sahoo 
 - S Warke 
-
-
-
-
-
-
 ### 3. Data Analytics
    Collect, Clean and interpret data , BI reporting, Dashboards 
     (Extracting data, analyzing and interpreting trends, data visualization)
@@ -45,15 +33,6 @@
 - Tanvi Bansal 
 - Shrikant Lunge
 - V Ghanote 
-
-
-    
-
-
-
-
-
-
 ### 4. Artificial Intelligence
    Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 
 - Aryan_Kumar
@@ -65,12 +44,6 @@
 - Saniya Saratkar
 - Himanshu Thombre 
 - Gaurav Rajurkar 
-
-
-
-
-
-
 ### 5. Data Management
    Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality
 - Ayum Padole

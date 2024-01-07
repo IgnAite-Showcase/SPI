@@ -2,7 +2,9 @@
 
 ### 1. Business Analysis
 **Objectives:** Planning, Designing, Business Objectives, Gather Requirements, Allocate Resources, Provide Suggestions, Collect Feedback, Build Reports, Meetings, Documentation and Presentation <br>
-**Deliverable:** Business Requirement Documentation(BRD), 
+**Tech Stack:** Inhouse tool and Standard Operating Procedure (SOP)
+**Deliverable:** Business Requirement Documentation(BRD)
+
 - Vishakha Sharma (RCOEM)
 - Smit Khobragade (RCOEM)
 - Bhairavi Bhongade
@@ -12,7 +14,10 @@
 - Geetika Mahant
   
 ### 2. Application Development
-Features, Authentication, Authorization, development and deployment of application
+**Objectives:** Features, Authentication, Authorization, development and deployment of application
+**Tech Stack:** : Oracle Apex Low/No Code, Java Script, K8s, HTML React.
+**Deliverable:** 
+
 - Kunal Wadibhasme
 - Aishwarya Umare 
 - Sakshi Nirmal 
@@ -22,11 +27,13 @@ Features, Authentication, Authorization, development and deployment of applicati
 - Pranjali Akarte 
 - Mrunmayee Talmale 
 - Sidd Sahoo 
-- S Warke
+- Soham Warke
   
 ### 3. Data Analytics
-Collect, Clean and interpret data , BI reporting, Dashboards 
-(Extracting data, analyzing and interpreting trends, data visualization)
+**Objectives:** Collect, Clean and interpret data , BI reporting, Dashboards (Extracting data, analyzing and interpreting trends, data visualization)
+**Tech Stack:** : 
+**Deliverable:** 
+
 - Aayush Dalal
 - Shreyas Raut
 - Piyush Dhote 
@@ -35,10 +42,13 @@ Collect, Clean and interpret data , BI reporting, Dashboards
 - Sharvari Choudhari 
 - Tanvi Bansal 
 - Shrikant Lunge
-- V Ghanote
+- Vikaram Ghanote
   
 ### 4. Artificial Intelligence
-Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 
+**Objectives:** Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 
+**Tech Stack:** : 
+**Deliverable:** 
+
 - Aryan_Kumar
 - Praneel Thaker
 - Suyog Kalmegh 
@@ -50,7 +60,10 @@ Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI 
 - Gaurav Rajurkar
   
 ### 5. Data Management
-Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality
+**Objectives:** Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality
+**Tech Stack:** : 
+**Deliverable:** 
+
 - Ayum Padole
 - Amey Katre 
 - Mansi Sahu
@@ -61,12 +74,4 @@ Data Security, Data Privacy, Metadata, Table structures, Views, stored procedure
 - Harish  
 - Vedanshu Patel 
 - Dhruv Bansal 
-- Abhivansh Jindal 
-
-
-
-
-
-
-
-
+- Abhivansh Jindal

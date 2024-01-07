@@ -1,6 +1,7 @@
-# Business Analysis Process
-Purpose of this document is to provide list of components to perform end to end Business Analysis and related components. 
-Business Analysis contains many componts including
+# Business Analysis Process Background
+1. Purpose of this document is to provide list of components to perform end to end Business Analysis and related components. 
+2. Business Analysis is the first step in any SDLC or PDLC. The content of the BRD ofen referred in many other documentations.
+3. Repetation of same information across many documents pose challenges for maintain it at several places rather than References.
 
 ### Administration
 - List of Values
@@ -8,13 +9,20 @@ Business Analysis contains many componts including
 - Users Authorization (User, Group Role, Acccess Level, Provisioning, Privacy Policy)
 - Diagrams (Upload and Maintain)
 - Documents (Upload and Maintain)
-- Research References
 
 ### Idea-Registration
+- Idead Demographics
+- Background Purpose
+- Hypothesis
+- Problem Statement
 
 ### Business Charter
-
-### Background Purpose
+- Demogrphics: Idea Name, Description, Success Criteria
+- Team: Customer, Application users, Investor, Project Manager, Stakeholder 
+- Budget: Capital and Expense
+- Milestones: Deliverable timelines
+- Potential Risks: Subject Area, Risk, Level, Mitigation, Remediation 
+- Approvals: Approver Name, Title, Approval, Conditional Comments and Date Time
 
 ### Executive Summary
 To begin, you’ll need to create an executive summary that provides an overview of the organization and the challenges facing the business. You’ll explain the issues and what the organization is trying to achieve to ensure everyone is on the same page. This section should be short, like an elevator pitch, summarizing the rest of the business requirements document.
@@ -34,7 +42,7 @@ After summarizing the issue you plan to address in the project, you’ll want to
 - Experience
 - Define
 - Ideate
-- Prototype
+- Prototype (POC, POT, PILOT, MVP)
 - Test
 - Implement
 - Demo
@@ -60,43 +68,49 @@ After summarizing the issue you plan to address in the project, you’ll want to
 - In Scope:The project scope should define in detail what is covered in the project and what would make it run out of scope. This creates a clear boundary for the project and allows stakeholders and teams to agree on the business goals and high-level outcomes. Note what problems are being addressed, the boundaries for implementing the project and the expected return on investment (ROI).
 - Out of Scope: The project scope should define in detail what is not covered in the project
 
-### Requirements
+### Requirement Analysis
 - Epic Stories
 - Application Features:
-- Functional Requirements/User Stories: Here you’ll want to list the business requirements or critical activities that must be completed to meet the organization’s objectives. These business requirements should meet both stakeholder and customer needs. This can include a process that must be completed, a piece of data that is needed for the process or a business rule that governs that process and data.
+- Functional Requirements/User Stories: List the business requirements or critical activities that must be completed to meet the organization’s objectives. These business requirements should meet both stakeholder and customer needs. This can include a process that must be completed, a piece of data that is needed for the process or a business rule that governs that process and data.
 - Non-Functional Requirements/Tasks:
-
-### 
-- Test Cases
+- Testing
 - Issues and resolutions
 - Treaceability Matrix: of all above
 
-
 ### Team:
-
+- Team Type
 - Key Stakeholders: Now you’ll want to identify and list the key stakeholders in the project. Once you have that list, assign roles and responsibilities to each. These might be people outside of your department so you should define their role in the success of the project. This information needs to be distributed in order for everyone to know what’s expected of them in the project. You can even use this section to assign tasks.
 
-### Business Glossary
-- Terms and definitions
+### Knowledgebase
+- Business Terms
+| BUSINESS TERM | TERM DESCRIPTION |
+| ------------- | ------------- |
+| SPI  | Startup Performance Index  |
+| Angel Investors  | Provide financial support to early-stage startup companies in exchange for ownership equity or convertible debt  |
+| Venture Capatalist  | Emplloyee of the firm which invest in Startups  |
+- Technical Terms
 - Domain Knowledge
 - Ontology
 - Taxonomy
 
-### Knowledge base
-
-### Planning: 
-Project Schedule, Task Assignments, Timelines, 
+### Estimated Planning
+Project Deliverable Schedule and Timelines and estimated costs
 
 ### Product Roadmap
 - Current Feature Timelines (Quaterly)
 - Potential Feature Timeline (Quaterly)
 
-### Glossary of Terms
-| BUSINESS TERM | TERM DESCRIPTION |
-| ------------- | ------------- |
-| SPI  | Startup Performance Index  |
-| Angel Investors  | Provide financial support to early-stage startup companies in exchange for ownership equity or convertible debt  |
-
-### References
+### Technology Selection
+- Strengths and Weakness
+- Strategy: Short term(Prototyping), Long term (Production use)
+- Evaluation Criteria
+- Request for Proposal
+- Product Scoring
+- Vendor Selection
+- License (PayGo, Subscription, Purchase)
+- Cost mangement
 
 ### Appendix
+- Research References
+- Citations
+- Other Contents

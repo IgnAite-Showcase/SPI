@@ -15,6 +15,24 @@
 - Background Purpose
 - Hypothesis
 - Problem Statement
+- IDEA_PK
+- IDEA_TYPE
+- IDEA_NAME
+- IDEA_OBJECTIVE
+- IDEA_HYPOTHESIS
+- IDEA_PROBLEM
+- IDEA_PRIORITY
+- IDEA_OWNER
+- IDEA_STATUS
+- IDEA_USER
+- IDEA_JUSTIFICATION
+- IDEA_LOGISTIC
+- IDEA_SOLUTION
+- IDEA_ASSUMPTION
+- IDEA_CHALLENGES
+- IDEA_FEASIBILITY
+- IDEA_PROPOSAL
+- IDEA_BENIFITS
 
 ### Business Charter
 - Demogrphics: Idea Name, Description, Success Criteria

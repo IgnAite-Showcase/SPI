@@ -23,13 +23,12 @@
 - Aishwarya Umare 
 - Sakshi Nirmal 
 - Pavan Madavi
-- Arya Nanadanwar
-- Sudhanshu Akarte 
 - Pranjali Akarte 
 - Mrunmayee Talmale 
 - Sidd Sahoo 
 - Soham Warke
 - Geetika Mahant
+- Praneel Thaker 
   
 ### 3. Data Analytics
 **Objectives:** Collect, Clean and interpret data , BI reporting, Dashboards (Extracting data, analyzing and interpreting trends, data visualization)<br>
@@ -53,13 +52,14 @@
 **Deliverable:** <br>
 
 - Aryan_Kumar
-- Praneel Thaker 
 - Vaibhav Gomkar 
 - Vaibhav Marodkar 
 - Saniya Saratkar
 - Himanshu Thombre 
 - Gaurav Rajurkar
 - Shrikant Lunge
+- Arya Nanadanwar
+- Sudhanshu Akarte 
   
 ### 5. Data Management
 **Objectives:** Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality

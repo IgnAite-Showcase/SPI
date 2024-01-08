@@ -33,6 +33,7 @@
 - IDEA_FEASIBILITY
 - IDEA_PROPOSAL
 - IDEA_BENIFITS
+- IDEA_SUCCESS_CRITERIA
 
 ### Business Charter
 - Demogrphics: Idea Name, Description, Success Criteria

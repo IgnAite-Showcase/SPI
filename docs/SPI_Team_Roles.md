@@ -19,6 +19,7 @@
 **Deliverable:** <br>
 
 - Kunal Wadibhasme
+- Arpit Kumbhare 
 - Aishwarya Umare 
 - Sakshi Nirmal 
 - Pavan Madavi
@@ -68,7 +69,6 @@
 - Ayum Padole
 - Amey Katre 
 - Mansi Sahu
-- Arpit Kumbhare 
 - Smruti Pawar
 - Diksha Ladke 
 - Om Vispute

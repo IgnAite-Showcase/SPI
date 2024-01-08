@@ -12,6 +12,7 @@
 - Harsh Kalbande (SVP)
 - Smit Hiwale
 - Geetika Mahant
+- Suyog Kalmegh
   
 ### 2. Application Development
 **Objectives:** Features, Authentication, Authorization, development and deployment of application<br>
@@ -43,6 +44,7 @@
 - Tanvi Bansal 
 - Shrikant Lunge
 - Vikaram Ghanote
+- Vedant Onkar
   
 ### 4. Artificial Intelligence
 **Objectives:** Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 
@@ -50,14 +52,13 @@
 **Deliverable:** <br>
 
 - Aryan_Kumar
-- Praneel Thaker
-- Suyog Kalmegh 
+- Praneel Thaker 
 - Vaibhav Gomkar 
 - Vaibhav Marodkar 
-- Vedant Onkar
 - Saniya Saratkar
 - Himanshu Thombre 
 - Gaurav Rajurkar
+- Shrikant Lunge
   
 ### 5. Data Management
 **Objectives:** Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality

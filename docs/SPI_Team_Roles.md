@@ -11,7 +11,6 @@
 - Parth Burde (SVP)
 - Harsh Kalbande (SVP)
 - Smit Hiwale
-- Geetika Mahant
 - Suyog Kalmegh
   
 ### 2. Application Development
@@ -29,6 +28,7 @@
 - Mrunmayee Talmale 
 - Sidd Sahoo 
 - Soham Warke
+- Geetika Mahant
   
 ### 3. Data Analytics
 **Objectives:** Collect, Clean and interpret data , BI reporting, Dashboards (Extracting data, analyzing and interpreting trends, data visualization)<br>

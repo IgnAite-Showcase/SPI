@@ -22,7 +22,6 @@
 - Arpit Kumbhare 
 - Aishwarya Umare 
 - Sakshi Nirmal 
-- Pavan Madavi
 - Pranjali Akarte 
 - Mrunmayee Talmale 
 - Sidd Sahoo 
@@ -57,6 +56,7 @@
 - Saniya Saratkar
 - Himanshu Thombre 
 - Gaurav Rajurkar
+- Pavan Madavi
 - Shrikant Lunge
 - Arya Nanadanwar
 - Sudhanshu Akarte 

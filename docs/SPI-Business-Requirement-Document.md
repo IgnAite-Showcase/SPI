@@ -75,7 +75,8 @@ Now Wow How Matrix, Six Thinking Hats, Lean Startup Machine Idea Validation Boar
 - Business Justification: 
 - Cost-Benefit Analysis: You’ll also want to do a cost-benefit analysis to determine if the costs associated with the project are worth the benefits you’ll get. This requires first determining the associated costs of the project, such as upfront development costs, unexpected costs, future operating costs and tangible and intangible costs. You’ll also need to figure out what benefits derive from the project.
 - ROI Analysis : Return on Investment
-- Data Analysis: 
+- Data Analysis:
+- USP (Unique Selling Proposition) : Unique selling points for startup which makes them stand out from other players in business 
 
 ### Solution Sketch
 - Current State

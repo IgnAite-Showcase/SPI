@@ -2,77 +2,77 @@
 
 ### 1. Business Analysis
 **Objectives:** Planning, Designing, Business Objectives, Gather Requirements, Allocate Resources, Provide Suggestions, Collect Feedback, Build Reports, Meetings, Documentation and Presentation <br>
-**Tech Stack:** Inhouse tool and Standard Operating Procedure (SOP)<br>
-**Deliverable:** Business Requirement Documentation(BRD)<br>
+**Tech Stack:** BAP (Business Analysis Platform) Inhouse tool <br>
+**Deliverable:** Prepare Business Requirement Documentation(BRD) within BAP Application<br>
 
-- Vishakha Sharma (RCOEM)
-- Smit Khobragade (RCOEM)
-- Bhairavi Bhongade
-- Parth Burde (SVP)
-- Harsh Kalbande (SVP)
-- Smit Hiwale
-- Suyog Kalmegh
-  
+1. Vishakha Sharma (RCOEM)
+2. Smit Khobragade (RCOEM)
+3. Bhairavi Bhongade
+4. Harsh Kalbande (SVP)
+5. Smit Hiwale
+6. Suyog Kalmegh
+
 ### 2. Application Development
-**Objectives:** Features, Authentication, Authorization, development and deployment of application<br>
+**Objectives:** Application Features, Authentication, Authorization, forms, screens for data and metadata<br>
 **Tech Stack:** : Oracle Apex Low/No Code, Java Script, K8s, HTML React.<br>
-**Deliverable:** <br>
+**Deliverable:** SPI (Stock Performance Index) Application Demonstration<br>
 
-- Kunal Wadibhasme
-- Arpit Kumbhare 
-- Aishwarya Umare 
-- Sakshi Nirmal 
-- Pranjali Akarte 
-- Mrunmayee Talmale 
-- Sidd Sahoo 
-- Soham Warke
-- Geetika Mahant
-- Praneel Thaker 
-  
-### 3. Data Analytics
-**Objectives:** Collect, Clean and interpret data , BI reporting, Dashboards (Extracting data, analyzing and interpreting trends, data visualization)<br>
-**Tech Stack:** <br>
-**Deliverable:** <br>
+7. Parth Burde (SVP)
+8. Kunal Wadibhasme
+9. Arpit Kumbhare
+10. Aishwarya Umare
+11. Sakshi Nirmal
+12. Pranjali Akarte
+13. Mrunmayee Talmale
+14. Sidd Sahoo
+15. Soham Warke
+16. Geetika Mahant
+17. Praneel Thaker 
 
-- Aayush Dalal
-- Shreyas Raut
-- Piyush Dhote 
-- Om Rahudkar  
-- Aishwarya Bonde 
-- Sharvari Choudhari 
-- Tanvi Bansal 
-- Shrikant Lunge
-- Vikaram Ghanote
-- Vedant Onkar
-  
-### 4. Artificial Intelligence
-**Objectives:** Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 
-**Tech Stack:** <br>
-**Deliverable:** <br>
-
-- Aryan_Kumar
-- Vaibhav Gomkar 
-- Vaibhav Marodkar 
-- Saniya Saratkar
-- Himanshu Thombre 
-- Gaurav Rajurkar
-- Pavan Madavi
-- Shrikant Lunge
-- Arya Nanadanwar
-- Sudhanshu Akarte 
-  
-### 5. Data Management
+### 3. Data Management
 **Objectives:** Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality
-**Tech Stack:** <br>
-**Deliverable:** <br>
+**Tech Stack:** Oracle Apex Low/No Code, SQL, PL/SQL<br>
+**Deliverable:** SPI Backend schema for data and metadata, expose data via API, Data Privacy<br>
 
-- Ayum Padole
-- Amey Katre 
-- Mansi Sahu
-- Smruti Pawar
-- Diksha Ladke 
-- Om Vispute
-- Harish  
-- Vedanshu Patel 
-- Dhruv Bansal 
-- Abhivansh Jindal
+18. Ayum Padole
+19. Amey Katre
+20. Mansi Sahu
+21. Smruti Pawar
+22. Diksha Ladke
+23. Om Vispute
+24. Harish
+25. Vedanshu Patel
+26. Dhruv Bansal
+27. Abhivansh Jindal
+
+### 4. Data Analytics
+**Objectives:** Collect, Clean and interpret data , BI reporting, Dashboards (Extracting data, analyzing and interpreting trends, data visualization)<br>
+**Tech Stack:** Databricks, PySpark, SQL, Python, Azure Storage<br>
+**Deliverable:** DAP (Data Analytics Platform) to pull data from Apex and perform Data Analytics and Dashboard<br>
+
+28. Aayush Dalal
+29. Shreyas Raut
+30. Piyush Dhote
+31. Om Rahudkar
+32. Aishwarya Bonde
+33. Sharvari Choudhari
+34. Tanvi Bansal
+35. Shrikant Lunge
+36. Vikaram Ghanote
+37. Vedant Onkar
+  
+### 5. Artificial Intelligence
+**Objectives:** Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 
+**Tech Stack:** Databricks, LLM, RAG, Embedding, Prompt Engineering, Vector Database<br>
+**Deliverable:** AIP(Artificial Intelligence Platform) develop Customized AI Model and serve as API<br>
+
+38. Aryan_Kumar
+39. Vaibhav Gomkar
+40. Vaibhav Marodkar
+41. Saniya Saratkar
+42. Himanshu Thombre
+43. Gaurav Rajurkar
+44. Pavan Madavi
+45. Shrikant Lunge
+46. Arya Nanadanwar
+47. Sudhanshu Akarte 

@@ -13,37 +13,37 @@
 5. Smit Hiwale
 6. Suyog Kalmegh
 
-### 2. Application Development (Lead: Vaibhav Marodkar)
+### 2. Application Development (Lead: Parth Burde)
 **Objectives:** Application Features, Authentication, Authorization, forms, screens for data and metadata<br>
 **Tech Stack:** Oracle Apex Low/No Code, Java Script, K8s, HTML React.<br>
 **Deliverable:** SPI (Stock Performance Index) Application Demonstration<br>
 
-7. Vaibhav Marodkar
-8. Kunal Wadibhasme
-9. Arpit Kumbhare
-10. Aishwarya Umare
-11. Sakshi Nirmal
-12. Pranjali Akarte
-13. Mrunmayee Talmale
-14. Sidd Sahoo
-15. Soham Warke
-16. Geetika Mahant
-17. Praneel Thaker 
+7. Parth Burde (SVP)
+8. Vaibhav Marodkar
+9. Kunal Wadibhasme
+10. Arpit Kumbhar
+11. Aishwarya Umare
+12. Sakshi Nirmal
+13. Pranjali Akarte
+14. Mrunmayee Talmale
+15. Sidd Sahoo
+16. Soham Warke
+17. Geetika Mahant
+18. Praneel Thaker 
 
-### 3. Data Management (Lead: Parth Burde)
+### 3. Data Management (Lead: Vedanshu Patel)
 **Objectives:** Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality
 **Tech Stack:** Oracle Apex Low/No Code, SQL, PL/SQL<br>
 **Deliverable:** SPI Backend schema for data and metadata, expose data via API, Data Privacy<br>
 
-18. Parth Burde (SVP)
-19. Ayum Padole
-20. Amey Katre
-21. Mansi Sahu
-22. Smruti Pawar
-23. Diksha Ladke
-24. Om Vispute
-25. Harish
-26. Vedanshu Patel
+19. Vedanshu Patel
+20. Ayum Padole
+21. Amey Katre
+22. Mansi Sahu
+23. Smruti Pawar
+24. Diksha Ladke
+25. Om Vispute
+26. Harish
 27. Dhruv Bansal
 28. Abhivansh Jindal
 
@@ -68,8 +68,8 @@
 **Tech Stack:** Databricks, LLM, RAG, Embedding, Prompt Engineering, Vector Database<br>
 **Deliverable:** AIP(Artificial Intelligence Platform) develop Customized AI Model and serve as API<br>
 
-38. Aryan_Kumar
-39. Vaibhav Gomkar
+39. Aryan_Kumar
+40. Vaibhav Gomkar
 41. Saniya Saratkar
 42. Himanshu Thombre
 43. Gaurav Rajurkar

@@ -1,4 +1,5 @@
 # SPI Team Roles And Responsibilities
+## IgnAite Lead: Vishakha Sharma
 
 ### 1. Business Analysis (Lead: Harsh Kalbande)
 **Objectives:** Planning, Designing, Business Objectives, Gather Requirements, Allocate Resources, Provide Suggestions, Collect Feedback, Build Reports, Meetings, Documentation and Presentation <br>

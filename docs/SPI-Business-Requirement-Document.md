@@ -16,15 +16,15 @@
 ### Design Thinking:
 1. **Empathise:**
    The first stage of the process is spent getting to know the user and understanding their wants, needs and objectives.
-3. **Define: **Defining the problem for potential Solution. You’ll gather all of your findings from the empathise phase and start to make sense of them: what difficulties and barriers are your users coming up against
-4. Ideation: Output --> Idea --> Register
+3. **Define:** Defining the problem for potential Solution. You’ll gather all of your findings from the empathise phase and start to make sense of them: what difficulties and barriers are your users coming up against
+4. **Ideation:** Output --> Idea --> Register
   In the ideation phase, you’ll explore and come up with as many ideas as possible. Some of these ideas will go on to be potential solutions to your design challenge; some will end up on the reject pile. <p>
   Alternativee Idea Generation Methods (Brainstorm, Braindump, Brainwrite, Brainwalk, Challenge Assumptions, SCAMPER, Mindmap, Sketch or Sketchstorm, Storyboard, Analogies, Provocation, Movement, Bodystorm, Gamestorming, Cheatstorm, Crowdstorm, Co-Creation Workshops, Prototype, Creative Pause) <p>
   Selection methods (Post-it Voting or Dot Voting, Four Categories Method, Bingo Selection, Idea Affinity Maps, 
 Now Wow How Matrix, Six Thinking Hats, Lean Startup Machine Idea Validation Board, Idea Selection Criteria)
-5. Prototype
+5. **Prototype:** 
   Typically done by (POC, POT, PILOT, MVP)
-6. Test:
+6. **Test:** 
   Purpose of this phase is to showcase Prototypy by (Implement, Demo, Retro, Feedback, Analyze, Propose Enhancement)
 
 ### Login

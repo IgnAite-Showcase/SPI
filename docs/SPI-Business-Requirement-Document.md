@@ -1,16 +1,60 @@
-# Business Analysis Process Background
+# BAP - Business Analysis Process Background (Practice Application)
 1. Purpose of this document is to provide list of components to perform end to end Business Analysis and related components. 
 2. Business Analysis is the first step in any SDLC or PDLC. The content of the BRD ofen referred in many other documentations.
-3. Repetation of same information across many documents pose challenges for maintain it at several places rather than References.
+3. Repetation of same information across many documents pose challenges for maintain it at several places rather than
 
-### Administration
-- List of Values
+### References: https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/
+
+### Development Process (SOP- Standard Operating Procedure)
+1. Navigation Menu
+2. Breadcrumb Menu
+3. Define the Data Store
+4. Define the Report (Suggession: Do not mention word _Report in name)
+5. Define the Data Entry Form (Suggession: Do not mention word _Form in name)
+6. Link Report with the Navigation and Breadcrumb Menu
+
+### Design Thinking:
+1. **Empathise:**
+   The first stage of the process is spent getting to know the user and understanding their wants, needs and objectives.
+3. **Define: **Defining the problem for potential Solution. You’ll gather all of your findings from the empathise phase and start to make sense of them: what difficulties and barriers are your users coming up against
+4. Ideation: Output --> Idea --> Register
+  In the ideation phase, you’ll explore and come up with as many ideas as possible. Some of these ideas will go on to be potential solutions to your design challenge; some will end up on the reject pile. <p>
+  Alternativee Idea Generation Methods (Brainstorm, Braindump, Brainwrite, Brainwalk, Challenge Assumptions, SCAMPER, Mindmap, Sketch or Sketchstorm, Storyboard, Analogies, Provocation, Movement, Bodystorm, Gamestorming, Cheatstorm, Crowdstorm, Co-Creation Workshops, Prototype, Creative Pause) <p>
+  Selection methods (Post-it Voting or Dot Voting, Four Categories Method, Bingo Selection, Idea Affinity Maps, 
+Now Wow How Matrix, Six Thinking Hats, Lean Startup Machine Idea Validation Board, Idea Selection Criteria)
+5. Prototype
+  Typically done by (POC, POT, PILOT, MVP)
+6. Test:
+  Purpose of this phase is to showcase Prototypy by (Implement, Demo, Retro, Feedback, Analyze, Propose Enhancement)
+
+### Login
 - User Authentication
 - Users Authorization (User, Group Role, Acccess Level, Provisioning, Privacy Policy)
+
+### Logout
+- Navigation Bar
+  
+### Maintenance --> LOV
+- List of Values (Form + Report)
+
+### Maintenance --> Upload Images
+- Define Table Structure
 - Diagrams (Upload and Maintain)
+
+### Maintenance --> Upload Docs
+- Define Table Structure
 - Documents (Upload and Maintain)
 
-### Idea-Registration
+### Design --> Empathise
+- Persona (E.g. Admin, Business Analyst, Data Analyst, Project Manager, UI/UX Designer, Developer)
+- Roles
+- Accountability
+- Responsibilities
+- Challenges
+- Innovation Opportunities
+- Voting/Rating
+
+### Design --> Idea
 - Idead Demographics
 - Background Purpose
 - Hypothesis
@@ -43,10 +87,9 @@
 - Potential Risks: Subject Area, Risk, Level, Mitigation, Remediation 
 - Approvals: Approver Name, Title, Approval, Conditional Comments and Date Time
 
-### Executive Summary
-To begin, you’ll need to create an executive summary that provides an overview of the organization and the challenges facing the business. You’ll explain the issues and what the organization is trying to achieve to ensure everyone is on the same page. This section should be short, like an elevator pitch, summarizing the rest of the business requirements document.
-
-### Project Description/Objectives
+### Demographics
+1. Executive Summary: To begin, you’ll need to create an executive summary that provides an overview of the organization and the challenges facing the business. You’ll explain the issues and what the organization is trying to achieve to ensure everyone is on the same page. This section should be short, like an elevator pitch, summarizing the rest of the business requirements document.
+2. Project Description/Objectives
 After summarizing the issue you plan to address in the project, you’ll want to clearly define the project’s objective. This helps define the project phases, creates a way to identify solutions for the requirements of the business and the customer, gains consensus from stakeholders and the project team and describes how you arrived at the objectives.
 
 ### Use Case: Follow SIPOC Model (Suppliers, Inputs, Process, Outputs and Customers)
@@ -56,18 +99,6 @@ After summarizing the issue you plan to address in the project, you’ll want to
 - O: Result
 - C: End User
 
-### Design Thinking:
-1. Empathise: Experience
-2. Define
-3. Ideation:
-  In the ideation phase, you’ll explore and come up with as many ideas as possible. Some of these ideas will go on to be potential solutions to your design challenge; some will end up on the reject pile. <p>
-  Methods (Brainstorm, Braindump, Brainwrite, Brainwalk, Challenge Assumptions, SCAMPER, Mindmap, Sketch or Sketchstorm, Storyboard, Analogies, Provocation, Movement, Bodystorm, Gamestorming, Cheatstorm, Crowdstorm, Co-Creation Workshops, Prototype, Creative Pause) <p>
-  Selection methods (Post-it Voting or Dot Voting, Four Categories Method, Bingo Selection, Idea Affinity Maps, 
-Now Wow How Matrix, Six Thinking Hats, Lean Startup Machine Idea Validation Board, Idea Selection Criteria)
-4. Prototype
-  Typically done by (POC, POT, PILOT, MVP)
-5. Test:
-  Purpose of this phase is to showcase Prototypy by (Implement, Demo, Retro, Feedback, Analyze, Propose Enhancement)
 
 ### Analysis
 - SWOT Analysis - SWOT is an acronym for Strengths, Weaknesses, Opportunities, and Threats. The analysis utilizes these headings in a quadrant format (Fig. 1) to list core competencies and other relevant company traits and characteristics. It’s a visual tool to help you see how the company is currently positioned and provides insight on what areas the company should be addressing in the near the future.

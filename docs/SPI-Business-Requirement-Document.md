@@ -13,6 +13,9 @@
 5. Define the Data Entry Form (Suggession: Do not mention word _Form in name)
 6. Link Report with the Navigation and Breadcrumb Menu
 
+### Landing Page
+- 
+
 ### Design Thinking:
 1. **Empathise:**
    The first stage of the process is spent getting to know the user and understanding their wants, needs and objectives.
@@ -93,6 +96,7 @@ Now Wow How Matrix, Six Thinking Hats, Lean Startup Machine Idea Validation Boar
 After summarizing the issue you plan to address in the project, you’ll want to clearly define the project’s objective. This helps define the project phases, creates a way to identify solutions for the requirements of the business and the customer, gains consensus from stakeholders and the project team and describes how you arrived at the objectives.
 
 ### Use Case: Follow SIPOC Model (Suppliers, Inputs, Process, Outputs and Customers)
+- Description
 - S: Actor/Persona
 - I: Action
 - P: Application/System/Process

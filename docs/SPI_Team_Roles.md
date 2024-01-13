@@ -11,7 +11,7 @@
 1. Harsh Kalbande (SVP-4) (*1)
 2. Vishakha Sharma (RCOEM-4) (*1)
 3. Smit Khobragade (RCOEM-3)
-4. Bhairavi Bhongade (0)
+4. Bhairavi Bhongade (*1)
 5. Smit Hiwale (*1)
 6. Suyog Kalmegh (*1)
 
@@ -24,12 +24,12 @@
 8. Vaibhav Marodkar (*1)
 9. Kunal Wadibhasme (*1)
 10. Arpit Kumbhar
-11. Aishwarya Umare (*1)
+11. Aishwarya Umare (SVP-4) (*1)
 12. Sakshi Nirmal
 13. Pranjali Akarte
 14. Soham Warke
 15. Geetika Mahant (*1)
-16. Praneel Thaker 
+
 
 ### 3. Data Management (SPI Backend Lead: Vedanshu Patel)
 **Objectives:** Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality
@@ -68,11 +68,12 @@
 **Tech Stack:** Databricks, LLM, RAG, Embedding, Prompt Engineering, Vector Database<br>
 **Deliverable:** AIP(Artificial Intelligence Platform) develop Customized AI Model and serve as API<br>
 
-37. Aryan Kumar (*1)
-38. Vaibhav Gomkar
-39. Himanshu Thombre
-40. Gaurav Rajurkar
-41. Pavan Madavi
 42. Shrikant Lunge
-43. Arya Nanadanwar
-44. Sudhanshu Akarte 
+43. Aryan Kumar (*1)
+44. Vaibhav Gomkar
+45. Himanshu Thombre
+46. Gaurav Rajurkar
+47. Pavan Madavi
+48. Arya Nanadanwar
+49. Sudhanshu Akarte 
+16. Praneel Thaker 

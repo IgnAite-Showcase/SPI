@@ -27,8 +27,6 @@
 11. Aishwarya Umare (*1)
 12. Sakshi Nirmal
 13. Pranjali Akarte
-14. Mrunmayee Talmale
-15. Sidd Sahoo
 16. Soham Warke
 17. Geetika Mahant (*1)
 18. Praneel Thaker 
@@ -47,6 +45,7 @@
 25. Om Vispute
 26. Harish
 27. Abhivansh Jindal
+28. Sophia Nikhar
 
 ### 4. Data Analytics (DAP Lead: Aayush Dalal)
 **Objectives:** Collect, Clean and interpret data , BI reporting, Dashboards (Extracting data, analyzing and interpreting trends, data visualization)<br>

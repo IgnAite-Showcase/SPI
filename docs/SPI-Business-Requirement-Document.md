@@ -13,11 +13,22 @@
 5. Define the Data Entry Form (Suggession: Do not mention word _Form in name)
 6. Link Report with the Navigation and Breadcrumb Menu
 
-### Landing Page
+### Apex Workflow : Business Rules (Review/Approval/API/Database Action/Pages)
+- Start (param)
+- Logic
+- Stop
+- Action
+
+### BAP --> Landing Page (Consolidated View of Lead/Prospect/Opportunity)
+- Parameter (Lead Number)
+- Design Thinking (E, D, I, P, T)
+- Demographics
+- Charter -> Links
+- Requirement
 - 
 
 ### Design Thinking:
-1. **Empathise:**
+1. **Empathise:** Persona and Doain Knowledge
    The first stage of the process is spent getting to know the user and understanding their wants, needs and objectives.
 3. **Define:** Defining the problem for potential Solution. You’ll gather all of your findings from the empathise phase and start to make sense of them: what difficulties and barriers are your users coming up against
 4. **Ideation:** Output --> Idea --> Register
@@ -25,9 +36,9 @@
   Alternativee Idea Generation Methods (Brainstorm, Braindump, Brainwrite, Brainwalk, Challenge Assumptions, SCAMPER, Mindmap, Sketch or Sketchstorm, Storyboard, Analogies, Provocation, Movement, Bodystorm, Gamestorming, Cheatstorm, Crowdstorm, Co-Creation Workshops, Prototype, Creative Pause) <p>
   Selection methods (Post-it Voting or Dot Voting, Four Categories Method, Bingo Selection, Idea Affinity Maps, 
 Now Wow How Matrix, Six Thinking Hats, Lean Startup Machine Idea Validation Board, Idea Selection Criteria)
-5. **Prototype:** 
+5. **Prototype:** (POC, POT, PILOT, MVP)
   Typically done by (POC, POT, PILOT, MVP)
-6. **Test:** 
+6. **Test:** Feedback
   Purpose of this phase is to showcase Prototypy by (Implement, Demo, Retro, Feedback, Analyze, Propose Enhancement)
 
 ### Login

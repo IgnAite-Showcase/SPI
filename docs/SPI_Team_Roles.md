@@ -27,40 +27,41 @@
 11. Aishwarya Umare (*1)
 12. Sakshi Nirmal
 13. Pranjali Akarte
-16. Soham Warke
-17. Geetika Mahant (*1)
-18. Praneel Thaker 
+14. Soham Warke
+15. Geetika Mahant (*1)
+16. Praneel Thaker 
 
 ### 3. Data Management (SPI Backend Lead: Vedanshu Patel)
 **Objectives:** Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality
 **Tech Stack:** Oracle Apex Low/No Code, SQL, PL/SQL<br>
 **Deliverable:** SPI Backend schema for data and metadata, expose data via API, Data Privacy<br>
 
-19. Vedanshu Patel
-20. Ayum Padole
-21. Amey Katre
-22. Mansi Sahu (*1)
-23. Smruti Pawar
-24. Diksha Ladke (*1)
-25. Om Vispute
-26. Harish
-27. Abhivansh Jindal
-28. Sophia Nikhar
+17. Vedanshu Patel
+18. Ayum Padole
+19. Amey Katre
+20. Mansi Sahu (*1)
+21. Smruti Pawar
+22. Diksha Ladke (*1)
+23. Om Vispute
+24. Akash Mahendran
+25. Abhivansh Jindal
+26. Sophia Nikhar
 
 ### 4. Data Analytics (DAP Lead: Aayush Dalal)
 **Objectives:** Collect, Clean and interpret data , BI reporting, Dashboards (Extracting data, analyzing and interpreting trends, data visualization)<br>
 **Tech Stack:** Databricks, PySpark, SQL, Python, Data Science Models, Storage<br>
 **Deliverable:** DAP (Data Analytics Platform), Data Analytics, Data Science and Dashboard<br>
 
-28. Aayush Dalal
-29. Shreyas Raut (*1)
-30. Piyush Dhote
-31. Om Rahudkar (*1)
-32. Aishwarya Bonde
-33. Sharvari Choudhari
-34. Shrikant Lunge
-35. Vikaram Ghanote
-36. Vedant Onkar (*1)
+27. Aayush Dalal
+28. Shreyas Raut (*1)
+29. Piyush Dhote
+30. Om Rahudkar (*1)
+31. Aishwarya Bonde
+32. Sharvari Choudhari
+33. Shrikant Lunge
+34. Vikaram Ghanote
+35. Vedant Onkar (*1)
+36. Ankit Nagdeve
   
 ### 5. Artificial Intelligence (AIP Lead: Shrikant Lunge)
 **Objectives:** Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 

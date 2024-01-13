@@ -7,7 +7,7 @@
 3. Aryan_Kumar aryankumar8251@gmail.com 8709755507 Sr. Intern – AI, ML, Vis, Dashboard
 4. Praneel Thaker praneelmthaker@gmail.com 7796280794 Sr. Intern – AI, BD, Web, DM, API
 5. Shreyas Raut rautshreyas73@gmail.com 9325235084 Sr. Intern – DS, DA
-6. Ayum Padole aumpadole123@gmail.com 9309271630 Sr. Intern –
+6. Aum Padole aumpadole123@gmail.com 9309271630 Sr. Intern –
 7. Amey Katre ameykatre8112002@gmail.com 9529337926 Sr. Intern –
 8. Geetika Mahant mahantgeetika@gmail.com 96047 09878 Sr. Intern –
 9. Mansi Sahu mansisahu1207@gmail.com 7397923797 Sr. Intern –

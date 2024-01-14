@@ -29,6 +29,7 @@
 13. Pranjali Akarte
 14. Soham Warke
 15. Geetika Mahant (*1)
+16. Praneel Thaker 
 
 
 ### 3. Data Management (SPI Backend Lead: Vedanshu Patel)
@@ -76,4 +77,4 @@
 41. Pavan Madavi
 42. Arya Nanadanwar
 43. Sudhanshu Akarte
-44. Praneel Thaker 
+

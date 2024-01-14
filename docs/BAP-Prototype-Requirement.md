@@ -9,63 +9,78 @@
 7. The moto of the BAP is to "maintain content at one place and reuse to generate multiple documentations"
 8. At the same time BAP will promote and help team practice Design Thinking Methodologies.
 
-### Development Process (SOP- Standard Operating Procedure)
-1. Navigation Menu
-2. Breadcrumb Menu
-3. Data Structure Modeling Scripts (Tables, Sequences, Triggers, Views, Initial Inserts)
-4. Define the Report (Suggession: Do not mention word _Report in name)
-5. Define the Data Entry Form (Suggession: Do not mention word _Form in name)
-6. Link Report with the Navigation and Breadcrumb Menu
-7. Define Dashboard
+### Development Process SOP - Standard Operating Procedure
+1. Identify Features/Component
+2. Define Navigation Menu
+3. Define Breadcrumb Menu (Indicates how Page Organized)
+4. Data Structure Modeling Scripts (Tables, Sequences, Triggers, Views, Initial Inserts)
+5. Define the Report (Suggession: Do not mention word _Report in name)
+6. Define the Data Entry Form (Suggession: Do not mention word _Form in name)
+7. Link Report with the Navigation and Breadcrumb Menu
+8. Define Dashboard
 
-### Business Workflow : Business Rules (Review/Approval/API/Database Action/Pages)
+### Application -> Login
+- User Authentication
+- Users Authorization (User, Group Role, Acccess Level, Provisioning, Privacy Policy)
+
+### Application -> Logout
+- Navigation Bar Loout Link
+- Session Close
+- Security requirement for Back Button
+
+### Maintenance --> LOV
+- List of Values (Form + Report)
+- E.g. Y/N, Active/Inactive, Usecase_Persona_Type, Application_User_Type
+- Database Table Structure ()
+
+### Maintenance -> Users
+- User Demographics, user type, encrypted password
+- Database Table Structure ()
+
+### Maintenance -> Upload Images
+Utility to Upload images related to Solution Sketch and Product Infographics
+- Diagrams (Upload and Maintain)
+- Database Table Structure ()
+
+### Maintenance -> Upload Docs
+Utility to Upload documents related to the reference materials/approvals which can not be simply feed to BAP via screens.
+- Documents (Upload and Maintain)
+- Database Table Structure ()
+
+### Application -> Business Workflow 
+Business Rules (Review/Approval/API/Database Action/Pages)
 Ensure that certain steps follows during BAP and make sure that previous process completed (Reviewed/Approved) successfully. Sometime confitional approval is needed.
 - Start (param)
 - Logic
 - Stop
 - Action
+- Database Table Structure ()
 
-### BAP --> Landing Page (Consolidated View of Lead/Prospect/Opportunity)
+### Application -> Landing Page (Opportunity)
+Consolidated View of Lead/Prospect/Opportunity. Depend on the phase of application and business workflow, application should display related sections within the application.
 - Parameter (Lead Number)
 - Design Thinking (E, D, I, P, T)
 - Demographics
 - Charter -> Links
-- Requirement
+- Requirements
 
-### Design Thinking:
+### Home -> Design:
+Define pages displaying educational materials to bring team up to the speed in Design Thinking
 1. **Empathise:** Persona and Domain Knowledge
-   The first stage of the process is spent getting to know the user and understanding their wants, needs and objectives.
-3. **Define:** Defining the problem for potential Solution. You’ll gather all of your findings from the empathise phase and start to make sense of them: what difficulties and barriers are your users coming up against
-4. **Ideation:** Output --> Idea --> Register
-  In the ideation phase, you’ll explore and come up with as many ideas as possible. Some of these ideas will go on to be potential solutions to your design challenge; some will end up on the reject pile. <p>
-  Alternativee Idea Generation Methods (Brainstorm, Braindump, Brainwrite, Brainwalk, Challenge Assumptions, SCAMPER, Mindmap, Sketch or Sketchstorm, Storyboard, Analogies, Provocation, Movement, Bodystorm, Gamestorming, Cheatstorm, Crowdstorm, Co-Creation Workshops, Prototype, Creative Pause) <p>
-  Selection methods (Post-it Voting or Dot Voting, Four Categories Method, Bingo Selection, Idea Affinity Maps, 
+   The first stage of the Design Thinking process is to getting to know your user and understanding their wants, needs and objectives.
+3. **Define:** Problem Statement
+   Defining the problem for potential Solution. You’ll gather all of your findings from the empathise phase and start to make sense of them: what difficulties and barriers are your users coming up against
+4. **Ideation:** Register an Idea
+   In the ideation phase, you’ll explore and come up with as many ideas as possible. Some of these ideas will go on to be potential solutions to your design challenge; some will end up on the reject pile. <p>
+   Alternativee Idea Generation Methods (Brainstorm, Braindump, Brainwrite, Brainwalk, Challenge Assumptions, SCAMPER, Mindmap, Sketch or Sketchstorm, Storyboard, Analogies, Provocation, Movement, Bodystorm, Gamestorming, Cheatstorm, Crowdstorm, Co-Creation Workshops, Prototype, Creative Pause) <p>
+   Selection methods (Post-it Voting or Dot Voting, Four Categories Method, Bingo Selection, Idea Affinity Maps, 
 Now Wow How Matrix, Six Thinking Hats, Lean Startup Machine Idea Validation Board, Idea Selection Criteria)
-5. **Prototype:** (POC, POT, PILOT, MVP)
+6. **Prototype:** Working Model
   Typically done by (POC, POT, PILOT, MVP)
-6. **Test:** Feedback
-  Purpose of this phase is to showcase Prototypy by (Implement, Demo, Retro, Feedback, Analyze, Propose Enhancement)
+7. **Test:** Demo and Feedback
+  Purpose of this phase is to develop a Prototypy by (Implemention, Demo, Retro, Feedback, Analyze, Propose Enhancement)
 
-### Login
-- User Authentication
-- Users Authorization (User, Group Role, Acccess Level, Provisioning, Privacy Policy)
-
-### Logout
-- Navigation Bar
-  
-### Maintenance --> LOV
-- List of Values (Form + Report)
-- E.g. Y/N, Active/Inactive, Usecase_Persona_Type, Application_User_Type
-
-### Maintenance --> Upload Images
-- Define Table Structure
-- Diagrams (Upload and Maintain)
-
-### Maintenance --> Upload Docs
-- Define Table Structure
-- Documents (Upload and Maintain)
-
-### Design --> Empathise
+### Design -> Empathise
 - Persona (E.g. Admin, Business Analyst, Data Analyst, Project Manager, UI/UX Designer, Developer)
 - Roles
 - Accountability
@@ -73,14 +88,27 @@ Now Wow How Matrix, Six Thinking Hats, Lean Startup Machine Idea Validation Boar
 - Challenges
 - Innovation Opportunities
 - Voting/Rating
+- Database Table Structure ()
 
-### Design --> Idea
+### Design -> Idea
 - Idead Demographics,
 - Background Purpose - Hypothesis
 - Problem Statement
 - Table Structure: IDEA_PK, IDEA_TYPE, IDEA_NAME, IDEA_OBJECTIVE, IDEA_HYPOTHESIS, IDEA_PROBLEM, IDEA_PRIORITY, IDEA_OWNER, IDEA_STATUS, IDEA_USER, IDEA_JUSTIFICATION, IDEA_LOGISTIC, IDEA_SOLUTION, IDEA_ASSUMPTION, IDEA_CHALLENGES, IDEA_FEASIBILITY, IDEA_PROPOSAL, IDEA_BENIFITS, IDEA_SUCCESS_CRITERIA
 
-### Business Charter
+### Design -> Prototype
+- Prototype Category: Typically done by (POC, POT, PILOT, MVP)
+- Database Table Structure ()
+  
+### Design -> Test:
+- Demo
+- Retro
+- Feedback
+- Analysis
+- Enhancement Plan
+- Database Table Structure ()
+
+### Design -> Business Charter
 - Demogrphics: Idea Name, Description, Success Criteria
 - Team: Customer, Application users, Investor, Project Manager, Stakeholder, Tech Lead
 - Budget: Capital and Expense, Return on Investment
@@ -88,7 +116,7 @@ Now Wow How Matrix, Six Thinking Hats, Lean Startup Machine Idea Validation Boar
 - Potential Risks: Subject Area, Risk, Level, Mitigation, Remediation 
 - Approvals: Approver Name, Title, Approval, Conditional Comments and Date Time
 
-### Project Demographics
+### Opportunity -> Demographics
 1. Background Purpose:
    Provide background information on project idea
 3. Executive Summary: To begin, you’ll need to create an executive summary that provides an overview of the organization and the challenges facing the business. You’ll explain the issues and what the organization is trying to achieve to ensure everyone is on the same page. This section should be short, like an elevator pitch, summarizing the rest of the business requirements document.

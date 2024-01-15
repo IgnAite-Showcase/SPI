@@ -7,6 +7,15 @@
 5. During Business Analysis a lot of steps needed to follow in **certain order with certain prerequisits**.
 6. Various sections of the BRD often **referred repetatively** in many other documentations. Maintanance of these content at various documents is often challenging.
 7. The moto of the BAP is to "maintain content at one place and reuse to generate multiple documentations such as BRD"
+8. Business Application Workflow:
+   - Create Opportunity OP_ID (Strategic Initiative / Tactical Project)
+   - Design Thinking (E/D/I/P/T)
+   - Idead Registrtion
+   - Business Analysis (Demographics)
+   - Data Analysis
+   - Planning Delivery/Phases/Components/Features/Timeline/Roadmap
+   - Business Requirement
+   - Generate Documentation (BRD, Charter, Test Plan, Technical Design Spec)
 
 ### Development Process SOP - Standard Operating Procedure
 1. Identify Features/Component
@@ -18,19 +27,22 @@
 7. Link Report with the Navigation and Breadcrumb Menu
 8. Define Dashboard
 
-### Application -> Login
-- User Authentication
+### Application -> Login (Page)
+- User Custom Authentication (Nilesh)
 - Users Authorization (User, Group Role, Acccess Level, Provisioning, Privacy Policy)
+- Create New session
+- Navigate to user specific Home Page (Admin, Business, IT)
 
-### Application -> Logout
-- Navigation Bar Loout Link
-- Session Close
-- Security requirement for Back Button
+### Application -> Logout (Done)
+- Navigation Bar - Logout Link
+- Session Close and return to Login Page
+- Security requirement: Back Button sould not work
 
 ### Maintenance --> LOV
+Maintain list of values for the Application
 - List of Values (Form + Report)
 - E.g. Y/N, Active/Inactive, Usecase_Persona_Type, Application_User_Type
-- Database Table Structure ()
+- Database Table Structure BAP_LOV (LOV_PK,	LOV_TYPE, LOV_KEY, LOV_VALUE, CHANGE_COMMENT)
 
 ### Maintenance -> Users
 - User Demographics, user type, encrypted password
@@ -46,6 +58,16 @@ Utility to Upload documents related to the reference materials/approvals which c
 - Documents (Upload and Maintain)
 - Database Table Structure ()
 
+### Application -> Opportunity Page (Business & IT)
+Consolidated View of Startup - Opportunity (Project/Initiative) . Depend on the phase of application and business workflow, application should display related sections within the application.
+- Create or update Opportunity
+- Database Table Structure ()
+- Select Parameter Startup Initiative (Project/Initiative)
+- Design Thinking (E, D, I, P, T) -> Project
+- Initiative Demographics
+- Business Charter Document
+- Business Requirements Documentation
+
 ### Application -> Business Workflow 
 Business Rules (Review/Approval/API/Database Action/Pages)
 Ensure that certain steps follows during BAP and make sure that previous process completed (Reviewed/Approved) successfully. Sometime confitional approval is needed.
@@ -55,16 +77,14 @@ Ensure that certain steps follows during BAP and make sure that previous process
 - Action
 - Database Table Structure ()
 
-### Application -> Landing Page (Opportunity)
-Consolidated View of Lead/Prospect/Opportunity. Depend on the phase of application and business workflow, application should display related sections within the application.
-- Parameter (Lead Number)
-- Design Thinking (E, D, I, P, T)
-- Demographics
-- Charter -> Links
-- Requirements
+### Application -> Home Page (Admin)
+- Application Administration
+- Application Maintenence (LOV, Users)
+- Security Access (User Role Assignment, Password)
 
 ### Home -> Design:
 Define pages displaying educational materials to bring team up to the speed in Design Thinking
+
 1. **Empathise:** Persona and Domain Knowledge
    The first stage of the Design Thinking process is to getting to know your user and understanding their wants, needs and objectives.
 3. **Define:** Problem Statement
@@ -77,7 +97,7 @@ Now Wow How Matrix, Six Thinking Hats, Lean Startup Machine Idea Validation Boar
 6. **Prototype:** Working Model
   Typically done by (POC, POT, PILOT, MVP)
 7. **Test:** Demo and Feedback
-  Purpose of this phase is to develop a Prototypy by (Implemention, Demo, Retro, Feedback, Analyze, Propose Enhancement)
+  Purpose of this phase is to develop a Prototypy by (Implemention, Demo, Retro (What went Well and What went wrong), Feedback, Analyze, Propose Enhancement)
 
 ### Design -> Empathise
 - Persona (E.g. Admin, Business Analyst, Data Analyst, Project Manager, UI/UX Designer, Developer)
@@ -85,11 +105,19 @@ Now Wow How Matrix, Six Thinking Hats, Lean Startup Machine Idea Validation Boar
 - Accountability
 - Responsibilities
 - Challenges
-- Innovation Opportunities
+- Innovation Opportunities (Lead/Prospect/Opportunity)
 - Voting/Rating
 - Database Table Structure ()
 
-### Design -> Idea
+### Design -> Define Problem
+- Challenges, difficulties barrier
+- Problem Statement
+- Business justification
+- Overall Approach
+- Opportunities
+- Database Table Structure ()
+
+### Design -> Ideation
 - Idead Demographics,
 - Background Purpose - Hypothesis
 - Problem Statement
@@ -115,7 +143,7 @@ Now Wow How Matrix, Six Thinking Hats, Lean Startup Machine Idea Validation Boar
 - Potential Risks: Subject Area, Risk, Level, Mitigation, Remediation 
 - Approvals: Approver Name, Title, Approval, Conditional Comments and Date Time
 
-### Opportunity -> Demographics
+### Project/Initiative -> Demographics
 1. Background Purpose:
    Provide background information on project idea
 3. Executive Summary: To begin, you’ll need to create an executive summary that provides an overview of the organization and the challenges facing the business. You’ll explain the issues and what the organization is trying to achieve to ensure everyone is on the same page. This section should be short, like an elevator pitch, summarizing the rest of the business requirements document.

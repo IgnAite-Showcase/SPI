@@ -1,13 +1,12 @@
 # BAP (Business Analysis Platform) Requirement Analysis
 ### Purpose/Background
-1. Purpose of this document is to build Practice Application for the IgnAite interns to get familiar with the Low Code and No Code Web Development technology such as Oracle Apex.
-2. Additionally this will also enable team to practice Design Thinking Methodologies and come up with the alternative solutions for final prototyping idea. 
-3. Hence BAP (Business Analysis Platform) will enable us define various components to perform end to end Business Analysis and related documentation. 
-4. Business Analysis is the critical step in any SDLC (Software) or PDLC(Product), which yields important direction for project to be successful.
-5. During Business Analysis a lot of steps needed to follow in certain order with certain prerequisits.
-6. Various sections of the BRD often referred repetatively in many other documentations. Maintanance of these content at various documents is ofen challenging.
-7. The moto of the BAP is to "maintain content at one place and reuse to generate multiple documentations"
-8. At the same time BAP will promote and help team practice Design Thinking Methodologies.
+1. Purpose of this document is to build Practice Application for the IgnAite interns to get **familiar with the Low Code and No Code** Web Development technology such as Oracle Apex.
+2. Additionally this will also enable team to practice **Design Thinking Methodologies** and come up with the alternative solutions for final prototyping idea. 
+3. Hence BAP (Business Analysis Platform) will enable us define various components to perform end to end **Business Analysis** and related documentation. 
+4. Business Analysis is the critical step in any SDLC (Software) or PDLC(Product), which yields **important direction for project** to be successful.
+5. During Business Analysis a lot of steps needed to follow in **certain order with certain prerequisits**.
+6. Various sections of the BRD often **referred repetatively** in many other documentations. Maintanance of these content at various documents is often challenging.
+7. The moto of the BAP is to "maintain content at one place and reuse to generate multiple documentations such as BRD"
 
 ### Development Process SOP - Standard Operating Procedure
 1. Identify Features/Component

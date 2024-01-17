@@ -16,11 +16,11 @@
 
 1. Harsh Kalbande GMT(SVP-4) (*3)
 2. Vishakha Sharma GMT(RCOEM-4) (*1)
-3. Smit Khobragade (RCOEM-3)
+3. <<<Smit Khobragade>>> (RCOEM-3)
 4. Bhairavi Bhongade GMT(*3)
 5. Smit Hiwale GMT(*2)
 6. Suyog Kalmegh GMT(*2)
-7. Aishwarya Umare (SVP-4) (*2)
+7. <<<Aishwarya Umare>>> (SVP-4) (*2)
 
 ### 2. Application Development (SPI Frontend Lead: Parth Burde)
 **Objectives:** Application Features, Authentication, Authorization, forms, screens for data and metadata<br>
@@ -45,8 +45,8 @@
 17. Amey Katre GMT(2)
 18. Mansi Sahu GMT(*2)
 19. Smruti Pawar GMT(1)
-20. Akash Mahendran (1)
-21. Abhivansh Jindal (1)
+20. <<<Akash Mahendran>>> (1)
+21. <<<Abhivansh Jindal>>> (1)
 22. Sophia Nikhar GMT(1)
 
 ### 4. Data Analytics (DAP Lead: Aayush Dalal)
@@ -57,7 +57,7 @@
 23. Aayush Dalal GMT(3)
 24. Shreyas Raut GMT(*2)
 25. Om Rahudkar GMT(*2)
-26. Vikaram Ghanote (0)
+26. <<<Vikaram Ghanote>>> (0)
 27. Vedant Onkar GMT(*1)
 28. Ankit Nagdeve GMT(1)
   

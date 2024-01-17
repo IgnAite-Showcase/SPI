@@ -1,10 +1,11 @@
 # SPI Tinternship 2024 Enrollment
-### RCOEM
+Total: 34
+### RCOEM (2)
 1. Vishakha Sharma vishakharsharma@gmail.com 9175465711 Lead Intern
 2. Smit Khobragade smitkbgd@gmail.com 9309271630 Junior Intern 
 
 ### YCCE (15) 
-3. Aryan_Kumar aryankumar8251@gmail.com 8709755507 Sr. Intern – AI, ML, Vis, Dashboard
+3. Aryan Kumar aryankumar8251@gmail.com 8709755507 Sr. Intern – AI, ML, Vis, Dashboard
 4. Praneel Thaker praneelmthaker@gmail.com 7796280794 Sr. Intern – AI, BD, Web, DM, API
 5. Shreyas Raut rautshreyas73@gmail.com 9325235084 Sr. Intern – DS, DA
 6. Aum Padole aumpadole123@gmail.com 9309271630 Sr. Intern –
@@ -29,18 +30,17 @@
 23. Aishwarya Umare aishwaryau.ce20@stvincentngp.edu.in 8830424842 Sr. Intern –
 24. Sakshi Nirmal nirmalsakshi205@gmail.com 93567 45193 Sr. Intern – 
 
-### Junior/Other Intern (22)  
-25. Arya Nanadanwar Aryanandanwar29@gmail.com
-26. Bhairavi Bhongade Happycolor.bhairavi@gmail.com
-27. Om Rahudkar Omrahudkar@gmail.com
-28. Shrikant Lunge Shrikantlunge9@gmail.com
-29. Vedanshu Patel vedanshu.patel02@gmail.com
-30. Abhivansh Jindal abhivansh.jindal@gmail.com
-31. Aayush Dalal aayushdalal12@gmail.com
-32. Vikaram Ghanote ghanotevikram@gmail.com
-33. Himanshu Thombre himanshuthombre995@gmail.com
-34. Sophia Nikhar Sophianikhar@gmail.com
-35. Ankit Nagdeve ankitnagdeve54@gmail.com
+### Junior/Other Intern (10)  
+25. Bhairavi Bhongade Happycolor.bhairavi@gmail.com
+26. Om Rahudkar Omrahudkar@gmail.com
+27. Shrikant Lunge Shrikantlunge9@gmail.com
+28. Vedanshu Patel vedanshu.patel02@gmail.com
+29. Abhivansh Jindal abhivansh.jindal@gmail.com
+30. Aayush Dalal aayushdalal12@gmail.com
+31. Vikaram Ghanote ghanotevikram@gmail.com
+32. Himanshu Thombre himanshuthombre995@gmail.com
+33. Sophia Nikhar Sophianikhar@gmail.com
+34. Ankit Nagdeve ankitnagdeve54@gmail.com
 
 Eliminated:
 1. Gaurav Rajurkar gauravrajurkar85@gmail.com
@@ -52,3 +52,4 @@ Eliminated:
 7. Sudhanshu Akarte Sudhanshuakarte@gmail.com
 8. Pranjali Akarte Pranjaliakarte@gmail.com
 9. Piyush Dhote Piyushdhote110802@gmail.com
+10. Arya Nanadanwar Aryanandanwar29@gmail.com

@@ -56,20 +56,19 @@
 23. Aayush Dalal (3)
 24. Shreyas Raut (*2)
 25. Om Rahudkar (*2)
-26. Shrikant Lunge (1)
-27. Vikaram Ghanote (0)
-28. Vedant Onkar (*1)
-29. Ankit Nagdeve (1)
+26. Vikaram Ghanote (0)
+27. Vedant Onkar (*1)
+28. Ankit Nagdeve (1)
   
 ### 5. Artificial Intelligence (AIP Lead: Shrikant Lunge)
 **Objectives:** Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 
 **Tech Stack:** Databricks, LLM, RAG, Embedding, Prompt Engineering, Vector Database<br>
 **Deliverable:** AIP(Artificial Intelligence Platform) develop Customized AI Model and serve as API<br>
 
-30. Shrikant Lunge (2)
-31. Aryan Kumar (*2)
-32. Vaibhav Gomkar (1)
-33. Himanshu Thombre (1)
-34. Pavan Madavi (1)
-35. Diksha Ladke (SVP-4) (*3)
-36. Om Vispute (SVP-4) (1)
+29. Shrikant Lunge (2)
+30. Aryan Kumar (*2)
+31. Vaibhav Gomkar (1)
+32. Himanshu Thombre (1)
+33. Pavan Madavi (1)
+34. Diksha Ladke (SVP-4) (*3)
+35. Om Vispute (SVP-4) (1)

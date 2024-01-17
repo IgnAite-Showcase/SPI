@@ -41,6 +41,7 @@ Total: 34
 32. Himanshu Thombre himanshuthombre995@gmail.com
 33. Sophia Nikhar Sophianikhar@gmail.com
 34. Ankit Nagdeve ankitnagdeve54@gmail.com
+35. Akash Mahendran TBD
 
 Eliminated:
 1. Gaurav Rajurkar gauravrajurkar85@gmail.com

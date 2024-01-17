@@ -31,23 +31,24 @@
 
 ### Junior/Other Intern (22)  
 25. Arya Nanadanwar Aryanandanwar29@gmail.com
-26. Sudhanshu Akarte Sudhanshuakarte@gmail.com
-27. Pranjali Akarte Pranjaliakarte@gmail.com
-28. Bhairavi Bhongade Happycolor.bhairavi@gmail.com
-29. Soham Warke Swarke@wisc.edu
-30. Saniya Saratkar Saniyasaratkar1312@gmail.com
-31. Piyush Dhote Piyushdhote110802@gmail.com
-32. Om Rahudkar Omrahudkar@gmail.com
-33. Aishwarya Bonde Aishwarya2bonde@gmail.com
-34. Sharvari Choudhari Sharvarichoudhari1@gmail.com
-35. Tanvi Bansal Tanvibansal2911@gmail.com
-36. Shrikant Lunge Shrikantlunge9@gmail.com
-37. Harish Harish.vfx89@gmail.com
-38. Vedanshu Patel vedanshu.patel02@gmail.com
-39. Abhivansh Jindal abhivansh.jindal@gmail.com
-40. Aayush Dalal aayushdalal12@gmail.com
-41. Vikaram Ghanote Ghanote.v@northestern.edu
-42. Himanshu Thombre himanshuthombre995@gmail.com
-43. Gaurav Rajurkar gauravrajurkar85@gmail.com
-44. Sophia Nikhar Sophianikhar@gmail.com
-45. Ankit Nagdeve ankitnagdeve54@gmail.com
+26. Bhairavi Bhongade Happycolor.bhairavi@gmail.com
+27. Om Rahudkar Omrahudkar@gmail.com
+28. Shrikant Lunge Shrikantlunge9@gmail.com
+29. Vedanshu Patel vedanshu.patel02@gmail.com
+30. Abhivansh Jindal abhivansh.jindal@gmail.com
+31. Aayush Dalal aayushdalal12@gmail.com
+32. Vikaram Ghanote ghanotevikram@gmail.com
+33. Himanshu Thombre himanshuthombre995@gmail.com
+34. Sophia Nikhar Sophianikhar@gmail.com
+35. Ankit Nagdeve ankitnagdeve54@gmail.com
+
+Eliminated:
+1. Gaurav Rajurkar gauravrajurkar85@gmail.com
+2. Soham Warke Swarke@wisc.edu
+3. Sharvari Choudhari Sharvarichoudhari1@gmail.com
+4. Tanvi Bansal Tanvibansal2911@gmail.com
+5. Aishwarya Bonde Aishwarya2bonde@gmail.com
+6. Saniya Saratkar Saniyasaratkar1312@gmail.com
+7. Sudhanshu Akarte Sudhanshuakarte@gmail.com
+8. Pranjali Akarte Pranjaliakarte@gmail.com
+9. Piyush Dhote Piyushdhote110802@gmail.com

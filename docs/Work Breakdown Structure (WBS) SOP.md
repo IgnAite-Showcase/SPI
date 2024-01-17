@@ -1,10 +1,13 @@
 ## BA Design Task
 Identify Features/Component, Define Navigation and Breadcrumb Menu, Assign task in GitHub
+1. Bhairavi (UI/UX)
+2. Harsh
 
 
 ## Backend Task
 Data Structure Modeling Scripts (Tables, Columns, Sequences, Triggers, Views, Inserts, API)
-
+1. Parth (API)
+2. 
 
 
 ## Frontend Task

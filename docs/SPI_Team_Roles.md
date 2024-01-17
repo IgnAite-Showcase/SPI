@@ -4,7 +4,7 @@
 2. Anand Thakare
 3. Chetan Pohane
 4. Roshan Satpute
-5. Mahendran
+5. Harish Mahendran
 
 ##### Note: * - Prototype participents.
 

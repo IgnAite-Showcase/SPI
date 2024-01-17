@@ -20,6 +20,7 @@
 ### Work Breakdown Structure SOP - Standard Operating Procedure
 Please create following 3 tasks for each feature E.g. User, Idea, Team, etc 
 Task Naming Standard: ***BAP-[Design | Backend | Frontend | Testing] - Feature Name - Description***
+***Git Board***: https://github.com/orgs/IgnAite-Showcase/projects/2
 1. BA Design Task: Identify Features Requirements, Define Navigation and Breadcrumb Menu, Assign task in GitHub
 2. Backend Task: Data Structure Modeling Scripts (Tables,Columns, Sequences, Triggers, Views, Inserts, API)
 5. Frontend Task: Define Report, Define Data Entry Form and Link Report with the Navigation and Breadcrumb Menu

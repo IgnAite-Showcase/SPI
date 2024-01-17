@@ -12,7 +12,10 @@ Data Structure Modeling Scripts (Tables, Columns, Sequences, Triggers, Views, In
 
 ## Frontend Task
 Define Report, Define Data Entry Form and Link Report with the Navigation and Breadcrumb Menu
-
+1.
+2.
 
 ## Testing Task
 Test Navigation, Reports, Forms, and API
+1. 
+2.

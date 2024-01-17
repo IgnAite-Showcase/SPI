@@ -30,7 +30,7 @@ Total: 34
 23. Aishwarya Umare aishwaryau.ce20@stvincentngp.edu.in 8830424842 Sr. Intern –
 24. Sakshi Nirmal nirmalsakshi205@gmail.com 93567 45193 Sr. Intern – 
 
-### Junior/Other Intern (10)  
+### Junior/Other Intern (11)  
 25. Bhairavi Bhongade Happycolor.bhairavi@gmail.com
 26. Om Rahudkar Omrahudkar@gmail.com
 27. Shrikant Lunge Shrikantlunge9@gmail.com

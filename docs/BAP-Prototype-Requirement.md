@@ -17,15 +17,11 @@
    - Business Requirement
    - Generate Documentation (BRD, Charter, Test Plan, Technical Design Spec)
 
-### Development Process SOP - Standard Operating Procedure
-1. Identify Features/Component
-2. Define Navigation Menu
-3. Define Breadcrumb Menu (Indicates how Page Organized)
-4. Data Structure Modeling Scripts (Tables, Sequences, Triggers, Views, Initial Inserts)
-5. Define the Report (Suggession: Do not mention word _Report in name)
-6. Define the Data Entry Form (Suggession: Do not mention word _Form in name)
-7. Link Report with the Navigation and Breadcrumb Menu
-8. Define Dashboard
+### Work Breakdown Structure SOP - Standard Operating Procedure
+Please create following 3 tasks for each feature E.g. User, Idea, Team, etc 
+1. BA Req Task: Identify Features/Component, Define Navigation and Breadcrumb Menu, Assign task in GitHub
+2. Backend Task: Data Structure Modeling Scripts (Tables,Columns, Sequences, Triggers, Views, Inserts, API)
+5. Frontend Task: Define Report, Define Data Entry Form and Link Report with the Navigation and Breadcrumb Menu
 
 ### Application -> Login (Page)
 - User Custom Authentication (Nilesh)

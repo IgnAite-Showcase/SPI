@@ -23,7 +23,8 @@ Task Naming Standard: ***BAP-[Design | Backend | Frontend | Testing] - Feature N
 ***Git Board***: https://github.com/orgs/IgnAite-Showcase/projects/2
 1. BA Design Task: Identify Features Requirements, Define Navigation and Breadcrumb Menu, Assign task in GitHub
 2. Backend Task: Data Structure Modeling Scripts (Tables,Columns, Sequences, Triggers, Views, Inserts, API)
-5. Frontend Task: Define Report, Define Data Entry Form and Link Report with the Navigation and Breadcrumb Menu
+3. Frontend Task: Define Report, Define Data Entry Form and Link Report with the Navigation and Breadcrumb Menu
+4. Testing Task: Test Navigation, Reports, Forms, and API
 
 ### Application -> Login (Page)
 - User Custom Authentication (Nilesh)

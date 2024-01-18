@@ -125,6 +125,19 @@ Now Wow How Matrix, Six Thinking Hats, Lean Startup Machine Idea Validation Boar
 ### Design -> Prototype
 - Prototype Category: Typically done by (POC, POT, PILOT, MVP)
 - Database Table Structure ()
+-  Upload Docs
+-  login (Page)
+- Logout (Done)
+- LOV (list of values)
+- Users ( investor and startup ) {form}
+- Upload Docs
+- Opportunity Page (Business & IT)
+- Home Page (Admin)
+- Business Workflow
+- investors and startup profile
+- voting form
+- dashboard ( progress ,    ( startup & investor )
+ 
   
 ### Design -> Test:
 - Demo

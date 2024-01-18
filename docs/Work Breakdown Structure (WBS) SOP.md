@@ -1,16 +1,3 @@
-### TASKS
-1. Upload Docs
-2. Login (Page)
-3. Logout (Done)
-4. LOV (list of values)
-5. Users ( investor and startup ) {form}
-6. Upload Docs
-7. Opportunity Page (Business & IT)
-8. Home Page (Admin)
-9. Business Workflow
-10. investors and startup profile
-11. voting form
-12. dashboard ( progress ,    ( startup & investor )
 
 
 ## BA Design Task

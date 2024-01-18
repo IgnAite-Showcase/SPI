@@ -1,5 +1,8 @@
-1) Agile Introduction.
-2)
-3) 2) Apex Design and backlog prep
+# Introduction to Agile Methodology.
+This training material will provide end to end concept on Agile Methodology and how students will use it during internship to accomplish task.
+
+### Agile Workflow Diagram
+
+Apex Design and backlog prep
    3)
    4) 3) Apex Development Environments 4) Show Case one Feature development e.g. Team form and screen within BAP. 5) CICD

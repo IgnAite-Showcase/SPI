@@ -35,3 +35,8 @@ This training material will provide end to end concept on Agile Methodology and 
 - ***Backend Task:*** Data Structure Modeling Scripts (Tables, Columns, Sequences, Triggers, Views, Inserts, API
 - ***Frontend Task:*** Define Report, Define Data Entry Form and Link Report with the Navigation and Breadcrumb Menu
 - ***Testing Task:*** Test Navigation, Reports, Forms, and API
+
+### 4. Demo and Retro
+1. Demonstrate Application to the Product Manager
+2. Feebcack on Application Demonstration
+3. Retrpspective: What went well and What did not go well.

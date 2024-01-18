@@ -2,6 +2,7 @@
 This training material will provide end to end concept on Agile Methodology and how students will use it during internship to accomplish task.
 
 ### Agile Workflow Diagram
+![GitHub Image](/diagrams/AgileMethodologyExplained.webp)
 
 Apex Design and backlog prep
    3)

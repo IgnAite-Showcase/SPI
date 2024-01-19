@@ -9,7 +9,7 @@
 7. The moto of the BAP is to "maintain content at one place and reuse to generate multiple documentations such as BRD"
 8. Business Application Workflow:
    - Create Opportunity OP_ID (Strategic Initiative / Tactical Project)
-   - Design Thinking (E/D/I/P/T)
+   - Design Thinking (E/D/I/P/T) { Empathize, Define, Ideate, Prototype, and Test }
    - Idead Registrtion
    - Business Analysis (Demographics)
    - Data Analysis

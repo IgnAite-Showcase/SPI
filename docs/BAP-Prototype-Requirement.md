@@ -44,6 +44,7 @@ Maintain list of values for the Application
 - Database Table Structure BAP_LOV (LOV_PK,	LOV_TYPE, LOV_KEY, LOV_VALUE, CHANGE_COMMENT)
 
 ### Maintenance -> Users
+- Story : As a Applicatlication admin have a report  
 - User Demographics, user type, encrypted password
 - Database Table Structure ()
 

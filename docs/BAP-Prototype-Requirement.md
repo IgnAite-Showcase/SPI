@@ -38,11 +38,12 @@ Task Naming Standard: ***BAP-[Design | Backend | Frontend | Testing] - Feature N
 - Security requirement: Back Button sould not work
 
 ### Maintenance --> LOV
-Maintain list of values for the Application
-- List of Values (Form + Report)
+User Story: As a admin would like to Maintain list of values for the Application
+- List of Values can be maintained by (Form + Report) 
 - E.g. Y/N, Active/Inactive, Usecase_Persona_Type, Application_User_Type
 - Database Table Structure BAP_LOV (LOV_PK,	LOV_TYPE, LOV_KEY, LOV_VALUE, CHANGE_COMMENT)
-
+- Navigation menu is: Maintenance-LOV
+  
 ### Maintenance -> Users
 - Story : As a Applicatlication admin have a report  
 - User Demographics, user type, encrypted password

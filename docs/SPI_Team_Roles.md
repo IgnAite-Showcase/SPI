@@ -33,7 +33,7 @@
 11. Arpit Kumbhare GMT(2)
 12. Sakshi Nirmal GMT(SVP-4) (1)
 13. Geetika Mahant GMT(*3)
-14. Praneel Thaker GMT(2)
+14. Praneel Thaker GMT(3)
 
 ### 3. Data Management (SPI Backend Lead: Vedanshu Patel)
 **Objectives:** Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality, API.
@@ -70,6 +70,6 @@
 30. Aryan Kumar GMT(*4)
 31. Vaibhav Gomkar GMT(3)
 32. Himanshu Thombre GMT(2)
-33. Pavan Madavi GMT(2)
+33. Pavan Madavi GMT(3)
 34. Diksha Ladke GMT(SVP-4) (*4)
 35. Om Vispute GMT(SVP-4) (2)

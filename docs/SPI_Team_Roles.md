@@ -14,12 +14,12 @@
 **Tech Stack:** BAP (Business Analysis Platform) Inhouse tool <br>
 **Deliverable:** Prepare Business Requirement Documentation(BRD) within BAP Application<br>
 
-1. Harsh Kalbande GMT(SVP-4) (*4)
-2. Vishakha Sharma GMT(RCOEM-4) (*3)
+1. Harsh Kalbande GMT(SVP-4) (*5)
+2. Vishakha Sharma GMT(RCOEM-4) (*4)
 3. [Smit Khobragade] (RCOEM-3)
-4. Bhairavi Bhongade GMT(*4)
+4. Bhairavi Bhongade GMT(*5)
 5. Smit Hiwale GMT(*3)
-6. Suyog Kalmegh GMT(*3)
+6. Suyog Kalmegh GMT(*4)
 7. [Aishwarya Umare] (SVP-4) (*3)
 
 ### 2. Application Development (SPI Frontend Lead: Parth Burde)
@@ -27,7 +27,7 @@
 **Tech Stack:** Oracle Apex Low/No Code, Java Script, K8s, HTML React.<br>
 **Deliverable:** SPI (Stock Performance Index) Application Demonstration<br>
 
-8. Parth Burde GMT(SVP-4) (*3)
+8. Parth Burde GMT(SVP-4) (*4)
 9. Vaibhav Marodkar GMT(*3)
 10. Kunal Wadibhasme GMT(SVP-4) (*3)
 11. Arpit Kumbhare GMT(2)
@@ -55,8 +55,8 @@
 **Deliverable:** DAP (Data Analytics Platform), Data Analytics, Data Science and Dashboard<br>
 
 23. Aayush Dalal GMT(3)
-24. Shreyas Raut GMT(*3)
-25. Om Rahudkar GMT(*3)
+24. Shreyas Raut GMT(*4)
+25. Om Rahudkar GMT(*4)
 26. [Vikaram Ghanote] (0)
 27. Vedant Onkar GMT(*2)
 28. Ankit Nagdeve GMT(1)
@@ -67,8 +67,8 @@
 **Deliverable:** AIP(Artificial Intelligence Platform) develop Customized AI Model and serve as API<br>
 
 29. Shrikant Lunge GMT(2)
-30. Aryan Kumar GMT(*3)
-31. Vaibhav Gomkar GMT(2)
+30. Aryan Kumar GMT(*4)
+31. Vaibhav Gomkar GMT(3)
 32. Himanshu Thombre GMT(2)
 33. Pavan Madavi GMT(2)
 34. Diksha Ladke GMT(SVP-4) (*4)

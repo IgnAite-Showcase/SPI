@@ -45,7 +45,7 @@
 17. Amey Katre GMT(3)
 18. Mansi Sahu GMT(*4)
 19. Smruti Pawar GMT(2)
-20. [Akash Mahendran] (1)
+20. [Akash Mahendran] (2)
 21. [Abhivansh Jindal] (1)
 22. Sophia Nikhar GMT(1)
 

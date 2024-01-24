@@ -14,13 +14,13 @@
 **Tech Stack:** BAP (Business Analysis Platform) Inhouse tool <br>
 **Deliverable:** Prepare Business Requirement Documentation(BRD) within BAP Application<br>
 
-1. Harsh Kalbande GMT(SVP-4) (*5)
+1. Harsh Kalbande GMT(SVP-4) (*6)
 2. Vishakha Sharma GMT(RCOEM-4) (*4)
 3. [Smit Khobragade] (RCOEM-3)
-4. Bhairavi Bhongade GMT(*5)
-5. Smit Hiwale GMT(*3)
-6. Suyog Kalmegh GMT(*4)
-7. [Aishwarya Umare] (SVP-4) (*3)
+4. Bhairavi Bhongade GMT(*6)
+5. Smit Hiwale GMT(*4)
+6. Suyog Kalmegh GMT(*5)
+7. [Aishwarya Umare] (SVP-4) (*4)
 
 ### 2. Application Development (SPI Frontend Lead: Parth Burde)
 **Objectives:** Application Features, Authentication, Authorization, forms, screens for data and metadata<br>
@@ -28,12 +28,12 @@
 **Deliverable:** SPI (Stock Performance Index) Application Demonstration<br>
 
 8. Parth Burde GMT(SVP-4) (*4)
-9. Vaibhav Marodkar GMT(*3)
+9. Vaibhav Marodkar GMT(*4)
 10. Kunal Wadibhasme GMT(SVP-4) (*3)
-11. Arpit Kumbhare GMT(3)
+11. Arpit Kumbhare GMT(4)
 12. Sakshi Nirmal GMT(SVP-4) (1)
-13. Geetika Mahant GMT(*3)
-14. Praneel Thaker GMT(3)
+13. Geetika Mahant GMT(*4)
+14. Praneel Thaker GMT(4)
 
 ### 3. Data Management (SPI Backend Lead: Vedanshu Patel)
 **Objectives:** Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality, API.
@@ -41,10 +41,10 @@
 **Deliverable:** SPI Backend schema for data and metadata, expose data via API, Data Privacy<br>
 
 15. Vedanshu Patel GMT(1)
-16. Ayum Padole GMT(2)
-17. Amey Katre GMT(3)
-18. Mansi Sahu GMT(*4)
-19. Smruti Pawar GMT(2)
+16. Ayum Padole GMT(3)
+17. Amey Katre GMT(4)
+18. Mansi Sahu GMT(*5)
+19. Smruti Pawar GMT(3)
 20. [Akash Mahendran] (2)
 21. [Abhivansh Jindal] (1)
 22. Sophia Nikhar GMT(1)
@@ -54,11 +54,11 @@
 **Tech Stack:** Databricks, PySpark, SQL, Python, Data Science Models, Storage<br>
 **Deliverable:** DAP (Data Analytics Platform), Data Analytics, Data Science and Dashboard<br>
 
-23. Aayush Dalal GMT(3)
-24. Shreyas Raut GMT(*4)
-25. Om Rahudkar GMT(*4)
+23. Aayush Dalal GMT(4)
+24. Shreyas Raut GMT(*5)
+25. Om Rahudkar GMT(*5)
 26. [Vikaram Ghanote] (0)
-27. Vedant Onkar GMT(*2)
+27. Vedant Onkar GMT(*3)
 28. Ankit Nagdeve GMT(1)
   
 ### 5. Artificial Intelligence (AIP Lead: Shrikant Lunge)
@@ -67,9 +67,9 @@
 **Deliverable:** AIP(Artificial Intelligence Platform) develop Customized AI Model and serve as API<br>
 
 29. Shrikant Lunge GMT(2)
-30. Aryan Kumar GMT(*4)
-31. Vaibhav Gomkar GMT(3)
-32. Himanshu Thombre GMT(2)
-33. Pavan Madavi GMT(3)
+30. Aryan Kumar GMT(*5)
+31. Vaibhav Gomkar GMT(4)
+32. Himanshu Thombre GMT(3)
+33. Pavan Madavi GMT(4)
 34. Diksha Ladke GMT(SVP-4) (*4)
-35. Om Vispute GMT(SVP-4) (2)
+35. Om Vispute GMT(SVP-4) (3)

@@ -45,28 +45,26 @@
 17. Amey Katre GMT(4)
 18. Mansi Sahu GMT(*5)
 19. Smruti Pawar GMT(3)
-20. Sophia Nikhar GMT(1)
+20. Sophia Nikhar GMT(3)
 
 ### 4. Data Analytics (DAP Lead: Aayush Dalal)
 **Objectives:** Collect, Clean and interpret data , BI reporting, Dashboards (Extracting data, analyzing and interpreting trends, data visualization)<br>
 **Tech Stack:** Databricks, PySpark, SQL, Python, Data Science Models, Storage<br>
 **Deliverable:** DAP (Data Analytics Platform), Data Analytics, Data Science and Dashboard<br>
 
-21. Aayush Dalal GMT(4)
+21. Aayush Dalal GMT(*4)
 22. Shreyas Raut GMT(*5)
 23. Om Rahudkar GMT(*5)
 24. Vedant Onkar GMT(*3)
-25. Ankit Nagdeve GMT(1)
   
 ### 5. Artificial Intelligence (AIP Lead: )
 **Objectives:** Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 
 **Tech Stack:** Databricks, LLM, RAG, Embedding, Prompt Engineering, Vector Database<br>
 **Deliverable:** AIP(Artificial Intelligence Platform) develop Customized AI Model and serve as API<br>
 
-26. Shrikant Lunge GMT(2)
-27. Aryan Kumar GMT(*5)
-28. Vaibhav Gomkar GMT(4)
-29. Himanshu Thombre GMT(3)
-30. Pavan Madavi GMT(4)
-31. Diksha Ladke GMT(SVP-4) (*4)
-32. Om Vispute GMT(SVP-4) (3)
+25. Aryan Kumar GMT(*5)
+26. Vaibhav Gomkar GMT(4)
+27. Himanshu Thombre GMT(3)
+28. Pavan Madavi GMT(4)
+29. Diksha Ladke GMT(SVP-4) (*4)
+30. Om Vispute GMT(SVP-4) (3)

@@ -16,11 +16,11 @@
 
 1. Harsh Kalbande GMT(SVP-4) (*6)
 2. Vishakha Sharma GMT(RCOEM-4) (*4)
-3. [Smit Khobragade] (RCOEM-3)
+3. Smit Khobragade (RCOEM-3)
 4. Bhairavi Bhongade GMT(*6)
 5. Smit Hiwale GMT(*4)
 6. Suyog Kalmegh GMT(*5)
-7. [Aishwarya Umare] (SVP-4) (*4)
+7. Aishwarya Umare (SVP-4) (*4)
 
 ### 2. Application Development (SPI Frontend Lead: Parth Burde)
 **Objectives:** Application Features, Authentication, Authorization, forms, screens for data and metadata<br>
@@ -45,31 +45,28 @@
 17. Amey Katre GMT(4)
 18. Mansi Sahu GMT(*5)
 19. Smruti Pawar GMT(3)
-20. [Akash Mahendran] (2)
-21. [Abhivansh Jindal] (1)
-22. Sophia Nikhar GMT(1)
+20. Sophia Nikhar GMT(1)
 
 ### 4. Data Analytics (DAP Lead: Aayush Dalal)
 **Objectives:** Collect, Clean and interpret data , BI reporting, Dashboards (Extracting data, analyzing and interpreting trends, data visualization)<br>
 **Tech Stack:** Databricks, PySpark, SQL, Python, Data Science Models, Storage<br>
 **Deliverable:** DAP (Data Analytics Platform), Data Analytics, Data Science and Dashboard<br>
 
-23. Aayush Dalal GMT(4)
-24. Shreyas Raut GMT(*5)
-25. Om Rahudkar GMT(*5)
-26. [Vikaram Ghanote] (0)
-27. Vedant Onkar GMT(*3)
-28. Ankit Nagdeve GMT(1)
+21. Aayush Dalal GMT(4)
+22. Shreyas Raut GMT(*5)
+23. Om Rahudkar GMT(*5)
+24. Vedant Onkar GMT(*3)
+25. Ankit Nagdeve GMT(1)
   
-### 5. Artificial Intelligence (AIP Lead: Shrikant Lunge)
+### 5. Artificial Intelligence (AIP Lead: )
 **Objectives:** Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 
 **Tech Stack:** Databricks, LLM, RAG, Embedding, Prompt Engineering, Vector Database<br>
 **Deliverable:** AIP(Artificial Intelligence Platform) develop Customized AI Model and serve as API<br>
 
-29. Shrikant Lunge GMT(2)
-30. Aryan Kumar GMT(*5)
-31. Vaibhav Gomkar GMT(4)
-32. Himanshu Thombre GMT(3)
-33. Pavan Madavi GMT(4)
-34. Diksha Ladke GMT(SVP-4) (*4)
-35. Om Vispute GMT(SVP-4) (3)
+26. Shrikant Lunge GMT(2)
+27. Aryan Kumar GMT(*5)
+28. Vaibhav Gomkar GMT(4)
+29. Himanshu Thombre GMT(3)
+30. Pavan Madavi GMT(4)
+31. Diksha Ladke GMT(SVP-4) (*4)
+32. Om Vispute GMT(SVP-4) (3)

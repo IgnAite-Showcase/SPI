@@ -37,11 +37,10 @@ Total: 34
 28. Vedanshu Patel vedanshu.patel02@gmail.com
 29. Abhivansh Jindal abhivansh.jindal@gmail.com
 30. Aayush Dalal aayushdalal12@gmail.com
-31. Vikaram Ghanote ghanotevikram@gmail.com
-32. Himanshu Thombre himanshuthombre995@gmail.com
-33. Sophia Nikhar Sophianikhar@gmail.com
-34. Ankit Nagdeve ankitnagdeve54@gmail.com
-35. Akash Mahendran makash.199452@gmail.com
+31. Himanshu Thombre himanshuthombre995@gmail.com
+32. Sophia Nikhar Sophianikhar@gmail.com
+33. Ankit Nagdeve ankitnagdeve54@gmail.com
+34. Akash Mahendran makash.199452@gmail.com
 
 Eliminated:
 1. Gaurav Rajurkar gauravrajurkar85@gmail.com
@@ -54,3 +53,4 @@ Eliminated:
 8. Pranjali Akarte Pranjaliakarte@gmail.com
 9. Piyush Dhote Piyushdhote110802@gmail.com
 10. Arya Nanadanwar Aryanandanwar29@gmail.com
+11. Vikaram Ghanote ghanotevikram@gmail.com

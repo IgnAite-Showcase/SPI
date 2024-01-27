@@ -40,12 +40,11 @@
 **Tech Stack:** Oracle Apex Low/No Code, SQL, PL/SQL<br>
 **Deliverable:** SPI Backend schema for data and metadata, expose data via API, Data Privacy<br>
 
-15. Vedanshu Patel GMT(OTHER-1)
-16. Ayum Padole GMT(YCCE-3)
-17. Amey Katre GMT(YCCE-4)
-18. Mansi Sahu GMT(YCCE-*5)
-19. Smruti Pawar GMT(YCCE-3)
-20. Sophia Nikhar GMT(OTHER-3)
+15. Ayum Padole GMT(YCCE-3)
+16. Amey Katre GMT(YCCE-4)
+17. Mansi Sahu GMT(YCCE-*5)
+18. Smruti Pawar GMT(YCCE-3)
+19. Sophia Nikhar GMT(OTHER-3)
 
 #----------------------------------------------------------------------------------------------------------------
 
@@ -54,19 +53,19 @@
 **Tech Stack:** Databricks, PySpark, SQL, Python, Data Science Models, Storage<br>
 **Deliverable:** DAP (Data Analytics Platform), Data Analytics, Data Science and Dashboard<br>
 
-21. Aayush Dalal GMT(OTHER-*4)
-22. Shreyas Raut GMT(YCCE*5)
-23. Om Rahudkar GMT(OTHER-*5)
-24. Vedant Onkar GMT(YCCE-*3)
+20. Aayush Dalal GMT(OTHER-*4)
+21. Shreyas Raut GMT(YCCE*5)
+22. Om Rahudkar GMT(OTHER-*5)
+23. Vedant Onkar GMT(YCCE-*3)
   
 ### 5. Artificial Intelligence (AIP Lead: )
 **Objectives:** Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 
 **Tech Stack:** Databricks, LLM, RAG, Embedding, Prompt Engineering, Vector Database<br>
 **Deliverable:** AIP(Artificial Intelligence Platform) develop Customized AI Model and serve as API<br>
 
-25. Aryan Kumar GMT(YCCE-*5)
-26. Vaibhav Gomkar GMT(YCCE-4)
-27. Himanshu Thombre GMT(OTHER-3)
-28. Pavan Madavi GMT(YCCE-4)
-29. Diksha Ladke GMT(SVP-4) (*4)
-30. Om Vispute GMT(SVP-4) (3)
+24. Aryan Kumar GMT(YCCE-*5)
+25. Vaibhav Gomkar GMT(YCCE-4)
+26. Himanshu Thombre GMT(OTHER-3)
+27. Pavan Madavi GMT(YCCE-4)
+28. Diksha Ladke GMT(SVP-4) (*4)
+29. Om Vispute GMT(SVP-4) (3)

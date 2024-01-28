@@ -31,7 +31,7 @@
 9. Vaibhav Marodkar GMT(*5)
 10. Kunal Wadibhasme GMT(SVP-4) (*4)
 11. Arpit Kumbhare GMT(5)
-12. Sakshi Nirmal GMT(SVP-4) (2)
+12. Sakshi Nirmal GMT(SVP-4) (4)
 13. Geetika Mahant GMT(*5)
 14. Praneel Thaker GMT(5)
 

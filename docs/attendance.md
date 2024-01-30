@@ -33,7 +33,5 @@
 1. Abhivansh Jindal
 2. Akash M
 3. Ankit Nagdeve
-4. Harish Mahendran
-5. Roshan Satpute
-6. Shrikant Lunge
-7. 
+4. Shrikant Lunge
+

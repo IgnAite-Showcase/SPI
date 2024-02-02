@@ -14,8 +14,8 @@
 **Tech Stack:** BAP (Business Analysis Platform) Inhouse tool <br>
 **Deliverable:** Prepare Business Requirement Documentation(BRD) within BAP Application<br>
 
-1. Harsh Kalbande GMT(SVP-4) (*7)
-2. Vishakha Sharma GMT(RCOEM-4) (*5)
+1. Harsh Kalbande GMT(SVP-4) (*8)
+2. Vishakha Sharma GMT(RCOEM-4) (*6)
 3. Smit Khobragade (RCOEM-4)
 4. Bhairavi Bhongade GMT(OTHER-*7)
 5. Smit Hiwale GMT(YCCE-*5)
@@ -28,11 +28,11 @@
 **Deliverable:** SPI (Stock Performance Index) Application Demonstration<br>
 
 8. Parth Burde GMT(SVP-4) (*5)
-9. Vaibhav Marodkar GMT(YCCE-*6)
+9. Vaibhav Marodkar GMT(YCCE-*7)
 10. Kunal Wadibhasme GMT(SVP-4) (*4)
 11. Arpit Kumbhare GMT(YCCE-5)
 12. Sakshi Nirmal GMT(SVP-4) (3)
-13. Geetika Mahant GMT(YCCE-*6)
+13. Geetika Mahant GMT(YCCE-*7)
 14. Praneel Thaker GMT(YCCE-5)
 
 ### 3. Data Management (SPI Backend Lead:)
@@ -42,7 +42,7 @@
 
 15. Ayum Padole GMT(YCCE-4)
 16. Amey Katre GMT(YCCE-6)
-17. Mansi Sahu GMT(YCCE-*6)
+17. Mansi Sahu GMT(YCCE-*7)
 18. Smruti Pawar GMT(YCCE-4)
 19. Sophia Nikhar GMT(OTHER-4)
 
@@ -53,8 +53,8 @@
 **Tech Stack:** Databricks, PySpark, SQL, Python, Data Science Models, Storage<br>
 **Deliverable:** DAP (Data Analytics Platform), Data Analytics, Data Science and Dashboard<br>
 
-20. Aayush Dalal GMT(OTHER-*5)
-21. Shreyas Raut GMT(YCCE*6)
+20. Aayush Dalal GMT(OTHER-*6)
+21. Shreyas Raut GMT(YCCE*7)
 22. Om Rahudkar GMT(OTHER-*7)
 23. Vedant Onkar GMT(YCCE-*4)
   
@@ -63,9 +63,9 @@
 **Tech Stack:** Databricks, LLM, RAG, Embedding, Prompt Engineering, Vector Database<br>
 **Deliverable:** AIP(Artificial Intelligence Platform) develop Customized AI Model and serve as API<br>
 
-24. Aryan Kumar GMT(YCCE-*6)
+24. Aryan Kumar GMT(YCCE-*7)
 25. Vaibhav Gomkar GMT(YCCE-5)
 26. Himanshu Thombre GMT(OTHER-4)
 27. Pavan Madavi GMT(YCCE-6)
-28. Diksha Ladke GMT(SVP-4) (*5)
-29. Om Vispute GMT(SVP-4) (4)
+28. Diksha Ladke GMT(SVP-4) (*6)
+29. Om Vispute GMT(SVP-4) (5)

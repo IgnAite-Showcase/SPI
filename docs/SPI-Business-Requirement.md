@@ -1,113 +1,48 @@
-# IgnAite SPI (Startup Performance Index) Requirement
+# IgnAite SPI (Startup Performance Index) 
+## Business Requirement Document
 
-Purpose/Background:
+### Purpose/Background:
 The purpose of the SPI is to assist Angle Investor and Venture Capitalist to assess risk of investment and share current progress of the Startup in timely manner. This will help both parties build a trusted partnering relationship. 
 
-
-Proposal College (Roshan, Dhruv) 
-
-Heading: Ignite Internship 
-
-Pictures: Info Graphics. 
-
-Objectives: Since last 3 years we have been mentioning 3rd year college students of the Computer  
-
-Use Case: IgnAite Startup 
-
-Science or related faculties. Feel free to join IgnAite Internship 2024 Jan-July. Let’s give it back to the community!  
-
-Duration: Summer 2023 (Jan-Jul) 
-
-Qualification: 3rs Under Grad 
-
-Contact Information: Nilesh Saratkar 01-973-930-2015 
-
- 
-
- 
-
-Problem Statement: 
-
+### Problem Statement: 
 Due to lack of visibility in startup progress, Angle Investor is unable to assess the risk involved. 
-
 Additionally, lack of standards and gates enforcement around Startup they are unable to compare and monitor portfolio investment. 
-
 Lack of timely (quarterly/monthly) reporting from the Startup team to assess risk and take action 
 
- 
-
-Opportunities: (Parth) 
-
+### Opportunities:
 What the opportunities for such Application 
-
 How Smart Application need to be from AI 
-
 How visual/convenient Application from UI/UX 
-
 How informative from the Data Analytics 
 
- 
-
-Data Availability: 
-
+### Data Availability: 
 State of the Startup: Funding(A-F), Matured Over Years(or IPO) 
-
 Collaboration: Investment Terms and Condition of Investment 
-
 Reputation: Past performance of 	same company on different product. 
-
 Use existing AI/VC Contacts and Influence to get information 
-
 Information captured in standard format, so you can compare acrross Industry sectors. 
-
 Require Startup to provide information on regular basis as (Actor - Media Relationship) 
 
- 
-
-Challenges: Business Justification 
-
+### Challenges: Business Justification 
 Startups are not listed on stock index and do not have information public 
-
 Most Startup keep idea top secret to contain market competition 
-
 Limited Information: available after patent and limited to Investors and team (MOU/NDA). 
-
 Index: Overall, Health and state of the Startup is unknown 
-
 Progress Report: Do not have visibility of Past and Present (limited) progress. 
-
 Risk: Can not Assess and understand risk of all his startup. 
-
 Standard: Missing performance 	standards across the Startup to compare. 
-
 Proposal Lead/Prospect: Before 	pitching idea Sign NDA and MOU from Investors. 
-
 Metadata: Startup Phases and KPI (Indicator + Measures) -> Index and Requirement. 
-
 Criteria: Entrance, Exit (Success/Fail), Evaluation Criteria. 
-
- 
-
 Deliverables: ROI (Return on Investment) 
-
 Porfilio Dashboard: Multiple AI/VC they should be able to startup from Portfolio. 
-
 Historical Performance: Project current and Future performance 
-
 Evaluation: KPI (Key Performance Indicator) and Metrics, Statistics, Reports. 
-
 SPI Index: Unified way to compare 
 
-Startup Dashboard: 	 
-
+### Startup Dashboard: 	 
 Action: Difficult to Invest (Initial Investment, Additional Investment, Sell/Withdraw 	Investment, Influence Fix the Startup) 
-
 Ad Hoc Questions/Feedback: Answers and deliver information, virtual assistance. 
-
- 
-
- 
-
 Use Case: IgnAite SPI (Startup Performance Index) 
 
 Startup Team (A): Entrepreneur, Board of Directors, Advisors 

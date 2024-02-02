@@ -9,7 +9,7 @@
 
 ##### Note: * - Prototype participents.
 
-### 1. Business Analysis (BAP Lead: Harsh Kalbande)
+### 1. Business Analysis (BAP Lead:)
 **Objectives:** Planning, Designing, Business Objectives, Gather Requirements, Allocate Resources, Provide Suggestions, Collect Feedback, Build Reports, Meetings, Documentation and Presentation <br>
 **Tech Stack:** BAP (Business Analysis Platform) Inhouse tool <br>
 **Deliverable:** Prepare Business Requirement Documentation(BRD) within BAP Application<br>
@@ -19,29 +19,29 @@
 3. Smit Khobragade (RCOEM-4)
 4. Bhairavi Bhongade GMT(OTHER-*7)
 5. Smit Hiwale GMT(YCCE-*5)
-6. Suyog Kalmegh GMT(YCCE-*6)
+6. Suyog Kalmegh GMT(YCCE-*7)
 7. Aishwarya Umare (SVP-4) (*5)
 
-### 2. Application Development (SPI Frontend Lead: Parth Burde)
+### 2. Application Development (SPI Frontend Lead:)
 **Objectives:** Application Features, Authentication, Authorization, forms, screens for data and metadata<br>
 **Tech Stack:** Oracle Apex Low/No Code, Java Script, K8s, HTML React.<br>
 **Deliverable:** SPI (Stock Performance Index) Application Demonstration<br>
 
 8. Parth Burde GMT(SVP-4) (*5)
-9. Vaibhav Marodkar GMT(YCCE-*5)
+9. Vaibhav Marodkar GMT(YCCE-*6)
 10. Kunal Wadibhasme GMT(SVP-4) (*4)
 11. Arpit Kumbhare GMT(YCCE-5)
 12. Sakshi Nirmal GMT(SVP-4) (3)
-13. Geetika Mahant GMT(YCCE-*5)
+13. Geetika Mahant GMT(YCCE-*6)
 14. Praneel Thaker GMT(YCCE-5)
 
-### 3. Data Management (SPI Backend Lead: Vedanshu Patel)
+### 3. Data Management (SPI Backend Lead:)
 **Objectives:** Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality, API.
 **Tech Stack:** Oracle Apex Low/No Code, SQL, PL/SQL<br>
 **Deliverable:** SPI Backend schema for data and metadata, expose data via API, Data Privacy<br>
 
 15. Ayum Padole GMT(YCCE-4)
-16. Amey Katre GMT(YCCE-5)
+16. Amey Katre GMT(YCCE-6)
 17. Mansi Sahu GMT(YCCE-*6)
 18. Smruti Pawar GMT(YCCE-4)
 19. Sophia Nikhar GMT(OTHER-4)
@@ -55,7 +55,7 @@
 
 20. Aayush Dalal GMT(OTHER-*5)
 21. Shreyas Raut GMT(YCCE*6)
-22. Om Rahudkar GMT(OTHER-*6)
+22. Om Rahudkar GMT(OTHER-*7)
 23. Vedant Onkar GMT(YCCE-*4)
   
 ### 5. Artificial Intelligence (AIP Lead: )
@@ -66,6 +66,6 @@
 24. Aryan Kumar GMT(YCCE-*6)
 25. Vaibhav Gomkar GMT(YCCE-5)
 26. Himanshu Thombre GMT(OTHER-4)
-27. Pavan Madavi GMT(YCCE-5)
+27. Pavan Madavi GMT(YCCE-6)
 28. Diksha Ladke GMT(SVP-4) (*5)
 29. Om Vispute GMT(SVP-4) (4)

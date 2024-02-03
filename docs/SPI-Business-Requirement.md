@@ -3,7 +3,7 @@
 #### Schedule: Every Wed 8 PM IST (9:30 AM EST)  
 #### Purpose: Team Lead Meeting (Harsh & Vishakah & Bhairavi) with Entire team Refine Direction on SPI.
 #### Workgroup Team Meeting: Flexible depend on team and availability.
-
+#### Standup Meeting Format Sat & Wed: What you have Done (Achievement), What You will be Doing (Plan), What are your hurdles (Challenges/Road blocks)
 ### Purpose/Background:
 The purpose of the SPI is to assist Angle Investor and Venture Capitalist to assess risk of investment and share current progress of the Startup in timely manner. This will help both parties build a trusted partnering relationship. 
 

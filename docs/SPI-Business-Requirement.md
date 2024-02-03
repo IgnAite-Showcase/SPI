@@ -1,5 +1,8 @@
 # IgnAite SPI (Startup Performance Index) 
 ## Business Requirement Document
+#### Schedule: Every Wed 8 PM IST (9:30 AM EST)  
+#### Purpose: Team Lead Meeting (Harsh & Vishakah & Bhairavi) with Entire team Refine Direction on SPI.
+#### Workgroup Team Meeting: Flexible depend on team and availability.
 
 ### Purpose/Background:
 The purpose of the SPI is to assist Angle Investor and Venture Capitalist to assess risk of investment and share current progress of the Startup in timely manner. This will help both parties build a trusted partnering relationship. 
@@ -83,15 +86,7 @@ Suggestions:
 
 Remember, the startup journey can be unpredictable, and flexibility is key. Stay informed, be open to feedback, and be willing to adapt your strategy as needed. Additionally, networking and seeking mentorship can provide valuable insights and support along the way. 
 
- 
-
- 
-
- 
-
- 
-
-Ref: 1 
+ Ref: 1 
 
 Startup delivers unique product or service ideas, a passion for solving a problem, or a desire to innovate in a specific industry. 
 

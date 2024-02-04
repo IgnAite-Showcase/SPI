@@ -35,7 +35,7 @@
 10. Om Rahudkar GMT(OTHER-*7)
 11. Praneel Thaker GMT(YCCE-5)
 
-### 3. Data and API Management (Backend Lead: Aishwarya Umare)
+### 3. Data and API Management (Backend Lead: Parth Burde)
 **Objectives:** Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality, API.
 **Tech Stack:** Oracle Apex Low/No Code, SQL, PL/SQL<br>
 **Deliverable:** SPI Backend schema for data and metadata, expose data via API, Data Privacy<br>
@@ -70,4 +70,4 @@
 27. Vaibhav Gomkar GMT(YCCE-5)
 28. Pavan Madavi GMT(YCCE-6)
 29. Sophia Nikhar GMT(OTHER-4)
-30. Aishwarya Umare (SVP-4) (*5)
+30. Aishwarya Umare (SVP-4) (*6)

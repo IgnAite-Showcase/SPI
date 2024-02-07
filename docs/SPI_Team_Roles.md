@@ -18,7 +18,7 @@
 **Deliverable:** Prepare Business Requirement Documentation(BRD) within BAP Application<br>
 
 1. Bhairavi Bhongade GMT(OTHER-*7) with all 6 leads should participate in
-2. Team Leads (Shreyas, Aishwarya, Vishakha & Aayush, Harsh & Vaibhav)
+2. Team Leads (Shreyas, Parth, Vishakha & Aayush, Harsh & Vaibhav)
 
 ### 2. Application Development (Frontend Lead: Shreyas Raut)
 **Objectives:** Application Features, Authentication, Authorization, forms, screens for data and metadata<br>

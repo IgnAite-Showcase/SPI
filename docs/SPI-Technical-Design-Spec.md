@@ -23,7 +23,7 @@ Intelligence: Databricks AI, Models
 1. Data Sourcing: Acquire relevant data from Backend Database into Databricks
 2. Dashboard Content: Create Pichart (based on req) and share it as Dashboard to Frontend
 
-#### SPI Artificial Inteligence Requirement Requirement (Backend - Harsh Kalbande & Vaibhav Gomkar)
+#### SPI Artificial Inteligence Requirement Requirement (Intelligence - Harsh Kalbande & Vaibhav Gomkar)
 1. Vector Indexing: Prepare Embedding Index (MogoDB/Databricks)
 2. Candidate Selection: Allow Investor ask Question and perform Similarity Search from Index
 3. Prompt Engg: Prepare Prompt LangChain Format (Question + Vector Search Result + Context( Investor XYZ))

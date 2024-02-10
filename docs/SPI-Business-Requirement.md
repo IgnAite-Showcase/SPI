@@ -1,6 +1,10 @@
 # IgnAite SPI (Startup Performance Index) 
 ## Business Requirement Document
 
+### SPI Application Capabilities
+As shown below, SPI Application expected to help Investor make Investment decisions as well as help Startup present accurate information. It's SPI responcibility to server Technology and Capability to the Investors and Startups. 
+![GitHub Image](/diagrams/SPI-HLD.jpg)
+
 ### Team Building Details
 - Schedule: Every Wed 8 PM IST (9:30 AM EST)  
 - Purpose: Team Lead Meeting (Harsh & Vishakah & Bhairavi) with Entire team Refine Direction on SPI.

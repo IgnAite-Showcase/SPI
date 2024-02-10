@@ -4,3 +4,8 @@
 mongodb+srv://SPIDEV:PWD@ignaite.mongocluster.cosmos.azure.com/?tls=true&authMechanism=SCRAM-SHA-256&retrywrites=false&maxIdleTimeMS=120000
 
 ### Python Connectivity
+
+
+References: 
+Vector Index: https://python.langchain.com/docs/integrations/vectorstores/azure_cosmos_db
+Python Connectivity: 

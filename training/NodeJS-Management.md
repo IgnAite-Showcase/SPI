@@ -6,8 +6,6 @@
 ### Install Node JS
 - Download and Inastall Node JS: https://nodejs.org/en/download
 - npm install -g serve
-- Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
-
 - npm install -g create-react-app
 
 ### Create Boilerplate Web App from default or specific template
@@ -29,6 +27,7 @@ File sizes after gzip:
 ```
 
 ### Serve Web App on default port or specific port
+- Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
 - serve -s build
 - serve -s build -l 4000
 ```

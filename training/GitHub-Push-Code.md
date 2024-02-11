@@ -1,5 +1,5 @@
 ### How to Push local code to Git Hub remote Repository.
-
+- cd parent folder
 - git config --global init.befaultBranch main
 - git init -b main
 - git add .

@@ -18,11 +18,11 @@ Intelligence: Databricks AI, Models
 
 #### SPI Non-Functional Requirement (Backend - Parth Burde)
 1. Login Page: Create database table and API to maintain User details to enable Authentication
-2. Dashboard Page: Create database table and API to maintain Individual Investor portfoli
+2. Dashboard Page: Create database table and API to maintain Individual Investor portfolio
 
 #### SPI Data Analytics Requirement (Analytics - Vishakha Sharma & Aayush Dalal)
 1. Data Sourcing: Acquire relevant data from Backend Database into Databricks
-2. Dashboard Content: Create Pichart (based on req) and share it as Dashboard to Frontend
+2. Dashboard Content: Create Piechart (based on req) and share it as Dashboard to Frontend
 
 #### SPI Artificial Inteligence Requirement Requirement (Intelligence - Harsh Kalbande & Vaibhav Gomkar)
 1. Vector Indexing: Prepare Embedding Index (MogoDB/Databricks/Sample Data)

@@ -22,6 +22,8 @@ client.close()
 
 ### Python CRUD Operation
 ```
+### Mongo DB
+
 def connect_mdb(mdb, usr, pwd):
     from pymongo import MongoClient
     import urllib.parse
@@ -52,8 +54,16 @@ if __name__ == '__main__':
     ### Add ome Row to Specific Index
     postid = dbc.insert_one({'userid': 'investor1', 'name': 'Investors One Bank', 'type': 'Investor', 'password': 'investor1'})
     print(postid)
+    postid = dbc.insert_one({'userid': 'investor2', 'name': 'Investors Two Bank', 'type': 'Investor', 'password': 'investor2'})
+    print(postid)
 
-    pprint.pprint(list(dbc.find({'userid': 'investor1'})))
+    #updresp = dbc.find_one_and_update({'AppAuth.userid': 'investor1'}, {'$set': {'AppAuth.name': 'Investors One'}})
+    #print(updresp)
+
+    #delresp = dbc.find_one_and_delete({'userid': 'investor1'})
+    #print(delresp)
+
+    pprint.pprint(list(dbc.find({'userid': 'investor2'})))
 
     ### Close Database Connection
     mdb.client.close()

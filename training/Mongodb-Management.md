@@ -42,18 +42,19 @@ if __name__ == '__main__':
     import pprint
     password = passwordbox("Enter password:")
     ### Get  Database and Collection Handlers
-    mdb = connect_mdb('quickstartDB', 'SPIDEV', password)
-    dbc = get_collection(mdb, "sampleCollection")
+    mdb = connect_mdb('SpiDB', 'SPIDEV', password)
+    dbc = get_collection(mdb, "AppAuth")
 
     ### Add New Index to Collection
-    #dbc.create_index(name="User", keys=[('userid',1), ("name",1), ("password",1)] )
-    #print(dbc.index_information())
+    dbc.create_index(name="User", keys=[('userid',1), ("name",1), ("type",1), ("password",1)] )
+    print(dbc.index_information())
 
     ### Add ome Row to Specific Index
-    postid = dbc.insert_one({'userid': 'abc', 'name': '123', 'password': 'xyz'})
+    postid = dbc.insert_one({'userid': 'investor1', 'name': 'Investors One Bank', 'type': 'Investor', 'password': 'investor1'})
     print(postid)
 
-    pprint.pprint(list(dbc.find({'name': '123'})))
+    pprint.pprint(list(dbc.find({'userid': 'investor1'})))
+
     ### Close Database Connection
     mdb.client.close()
 ```

@@ -1,0 +1,68 @@
+## pip install -U sentence-transformers
+## https://cookbook.openai.com/examples/vector_databases/mongodb_atlas/semantic_search_using_mongodb_atlas_vector_search
+from pymongo.mongo_client import MongoClient
+from pymongo.server_api import ServerApi
+from pprint import pprint
+import urllib.parse
+
+pwd = urllib.parse.quote_plus('Glad2@seeyou')
+uri = f"mongodb+srv://SPIDEV:{pwd}@ignaite.aebwbxa.mongodb.net/?retryWrites=true&w=majority"
+
+# Create a new client and connect to the server
+client = MongoClient(uri, server_api=ServerApi('1'))
+db = client['Ignaite']
+
+# Send a ping to confirm a successful connection
+try:
+    client.admin.command('ping')
+    print("Pinged your deployment. You successfully connected to MongoDB!")
+except Exception as e:
+    print(e)
+
+# collection.create_search_index(
+#     {"definition":
+#         {"mappings": {"dynamic": True, "fields": {
+#             EMBEDDING_FIELD_NAME : {
+#                 "dimensions": 1536,
+#                 "similarity": "dotProduct",
+#                 "type": "knnVector"
+#                 }}}},
+#      "name": ATLAS_VECTOR_SEARCH_INDEX_NAME
+#     }
+# )
+
+# # Update the collection with the embeddings
+# from pymongo import ReplaceOne
+# requests = []
+# for doc in collection.find({'plot':{"$exists": True}}).limit(500):
+#   doc[EMBEDDING_FIELD_NAME] = generate_embedding(doc['plot'])
+#   requests.append(ReplaceOne({'_id': doc['_id']}, doc))
+# collection.bulk_write(requests)
+
+import numpy as np
+import json
+
+
+## Generate embedding of size: 1536 elements
+def generate_embedding(text: str):
+    from sentence_transformers import SentenceTransformer
+    model = SentenceTransformer('sangmini/msmarco-cocondensor-MiniLM-L12_en-ko-ja')
+    embeddings = model.encode(text)
+    return(embeddings.tolist())
+
+eb = generate_embedding("A penniless young man tries to save an heiress from kidnappers and help her secure her inheritance.")
+print(len(eb))
+
+res = db.embedded_movies.aggregate(
+    [{"$vectorSearch": {
+       "index": "mflix_vector_index",
+       "path": "plot_embedding",
+       "queryVector": eb,
+       "numCandidates": 5,
+       "limit": 5}
+    }])
+
+print(pprint(list(res)))
+
+# for movie in res:
+#     print(f'Movie Name: {movie["title"]},\nMovie Plot: {movie["plot"]}\n')

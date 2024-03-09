@@ -1,4 +1,12 @@
 # SPI Team Roles And Responsibilities
+#### Ignite MeetUp Details:
+- Agenda: TBD (Anmoldeep Arora)
+- Date and Time: March 17 12-3PM
+- Location: 
+- Attendees: 
+- Programs: 
+- Food: Snacks: Samosa, Manchurian, 
+
 ## IgnAite Leadership: 
 1. Vishakha Sharma GMT(Lead)
 2. Harsh Kalbande GMT(Lead)
@@ -34,20 +42,16 @@
 9. Himanshu Thombre GMT(OTHER-4)
 10. Om Rahudkar GMT(OTHER-*7)
 11. Praneel Thaker GMT(YCCE-5)
+12. 10. Mansi Sahu GMT(YCCE-*7)
+11. Parth Burde GMT(SVP-4) (*5)
+12. Ayum Padole GMT(YCCE-4)
 
 ### 3. Data and API Management (Backend Lead: Parth Burde)
 **Objectives:** Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality, API.
 **Tech Stack:** Oracle Apex Low/No Code, SQL, PL/SQL<br>
 **Deliverable:** SPI Backend schema for data and metadata, expose data via API, Data Privacy<br>
 
-10. Mansi Sahu GMT(YCCE-*7)
-11. Parth Burde GMT(SVP-4) (*5)
-12. Ayum Padole GMT(YCCE-4)
-13. Smruti Pawar GMT(YCCE-4)
-15. Smit Khobragade (RCOEM-3)
-16. Smit Hiwale GMT(YCCE-*5)
-17. Suyog Kalmegh GMT(YCCE-*7)
-18. Vaibhav Marodkar GMT(YCCE-*7)
+
 
 ### 4. Data Analytics & BI Reporting (DAP Lead: Vishakha Sharma & Aayush Dalal)
 **Objectives:** Collect, Clean and interpret data , BI reporting, Dashboards (Extracting data, analyzing and interpreting trends, data visualization)<br>
@@ -60,6 +64,9 @@
 21. Om Vispute GMT(SVP-4) (5)
 22. Amey Katre GMT(YCCE-6) (5)
 24. Kunal Wadibhasme GMT(SVP-4) (*4)
+25. Smit Hiwale GMT(YCCE-*5)
+17. Suyog Kalmegh GMT(YCCE-*7)
+18. Vaibhav Marodkar GMT(YCCE-*7)
 
 ### 5. Artificial Intelligence (AIP Lead: Harsh Kalbande & Vaibhav Gomkar)
 **Objectives:** Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 
@@ -71,3 +78,5 @@
 28. Pavan Madavi GMT(YCCE-6)
 29. Sophia Nikhar GMT(OTHER-4)
 30. Aishwarya Umare (SVP-4) (*6)
+31. Smruti Pawar GMT(YCCE-4)
+15. Smit Khobragade (RCOEM-3)

@@ -35,16 +35,15 @@ Team Leads (Shreyas, Parth, Vishakha & Aayush, Harsh & Vaibhav)
 
 2. Shreyas Raut GMT(YCCE*7)
 3. Diksha Ladke GMT(SVP-4) (*6)
-5. Vedant Onkar GMT(YCCE-*4)
-6. Geetika Mahant GMT(YCCE-*7)
-7. Arpit Kumbhare GMT(YCCE-5)
-8. Sakshi Nirmal GMT(SVP-4) (4)
-9. Himanshu Thombre GMT(OTHER-4)
-10. Om Rahudkar GMT(OTHER-*7)
-11. Praneel Thaker GMT(YCCE-5)
-12. Mansi Sahu GMT(YCCE-*7)
-13. Parth Burde GMT(SVP-4) (*5)
-14. Ayum Padole GMT(YCCE-4)
+4. Vedant Onkar GMT(YCCE-*4)
+5. Geetika Mahant GMT(YCCE-*7)
+6. Arpit Kumbhare GMT(YCCE-5)
+7. Sakshi Nirmal GMT(SVP-4) (4)
+8. Himanshu Thombre GMT(OTHER-4)
+9. Om Rahudkar GMT(OTHER-*7)
+10. Praneel Thaker GMT(YCCE-5)
+11. Parth Burde GMT(SVP-4) (*5)
+
 
 ### 3. Data and API Management (Backend Lead: Parth Burde)
 **Objectives:** Data Security, Data Privacy, Metadata, Table structures, Views, stored procedures, Managing data quality, API.
@@ -56,25 +55,27 @@ Team Leads (Shreyas, Parth, Vishakha & Aayush, Harsh & Vaibhav)
 **Tech Stack:** Databricks, PySpark, SQL, Python, Data Science Models, Storage<br>
 **Deliverable:** DAP (Data Analytics Platform), Data Analytics, Data Science and Dashboard<br>
 
-15. Vishakha Sharma GMT(RCOEM-4) (*6)
-16. Aayush Dalal GMT(OTHER-*6)
-17. Aryan Kumar GMT(YCCE-*7)
-18. Om Vispute GMT(SVP-4) (5)
-19. Amey Katre GMT(YCCE-6) (5)
-20. Kunal Wadibhasme GMT(SVP-4) (*4)
-21. Smit Hiwale GMT(YCCE-*5)
-22. Suyog Kalmegh GMT(YCCE-*7)
-23. Vaibhav Marodkar GMT(YCCE-*7)
+12. Vishakha Sharma GMT(RCOEM-4) (*6)
+13. Aayush Dalal GMT(OTHER-*6)
+14. Aryan Kumar GMT(YCCE-*7)
+15. Om Vispute GMT(SVP-4) (5)
+16. Amey Katre GMT(YCCE-6) (5)
+17. Kunal Wadibhasme GMT(SVP-4) (*4)
+18. Smit Hiwale GMT(YCCE-*5)
+19. Suyog Kalmegh GMT(YCCE-*7)
+20. Vaibhav Marodkar GMT(YCCE-*7)
 
 ### 5. Artificial Intelligence (AIP Lead: Harsh Kalbande & Vaibhav Gomkar)
 **Objectives:** Developing and Programming Complex Alogrithm, ML models, AI and ML services, AI deployment 
 **Tech Stack:** Databricks, LLM, RAG, Embedding, Prompt Engineering, Vector Database<br>
 **Deliverable:** AIP(Artificial Intelligence Platform) develop Customized AI Model and serve as API<br>
 
-24. Harsh Kalbande GMT(SVP-4) (*8)
-25. Vaibhav Gomkar GMT(YCCE-5)
-26. Pavan Madavi GMT(YCCE-6)
-27. Aishwarya Umare (SVP-4) (*6)
-28. Smruti Pawar GMT(YCCE-4)
-29. Smit Khobragade (RCOEM-3)
+21. Harsh Kalbande GMT(SVP-4) (*8)
+22. Vaibhav Gomkar GMT(YCCE-5)
+23. Pavan Madavi GMT(YCCE-6)
+24. Aishwarya Umare (SVP-4) (*6)
+25. Smruti Pawar GMT(YCCE-4)
+26. Smit Khobragade (RCOEM-3)
+27. Mansi Sahu GMT(YCCE-*7)
+28. Ayum Padole GMT(YCCE-4)
 

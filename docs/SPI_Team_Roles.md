@@ -77,5 +77,5 @@ Team Leads (Shreyas, Parth, Vishakha & Aayush, Harsh & Vaibhav)
 25. Smruti Pawar GMT(YCCE-4)
 26. Smit Khobragade (RCOEM-3)
 27. Mansi Sahu GMT(YCCE-*7)
-28. Ayum Padole GMT(YCCE-4)
+28. Aum Padole GMT(YCCE-4)
 

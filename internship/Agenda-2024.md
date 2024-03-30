@@ -20,3 +20,15 @@
 - **Learning**
 - **Organization**
 - **Internship**
+
+
+## Agenda: March 16, 2024
+- **Learning**
+- **Organization**
+- **Internship**
+
+  
+## Agenda: March 09, 2024
+- **Learning**
+- **Organization**
+- **Internship**

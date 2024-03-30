@@ -5,6 +5,7 @@
 1. **HSB:** Module #3 - Prepare PPT Presentation
 2. **Quantum Computing:** Register for IBM-ID and learn and utilize free Quantum Computing Resources.
 3. **Frontend Testing:** Automated Testing using Robotic Process Automation (RPA) UiPath Application.
+4. **Model Cataloging:** Automated Process of catalogging & Categorizing AI Models available in Industry.
 - **Organization**
 4. **IgnAite Asparations:** TBD
 5. **IgnAite I2C:** Innovation Center Logistics and Business Model

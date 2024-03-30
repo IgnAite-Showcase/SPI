@@ -1,6 +1,6 @@
-## IgnAite Internship - Weekly Agenda
+# IgnAite Internship - Weekly Agenda
 
-#### Agenda: March 30, 2024
+## Agenda: March 30, 2024
 - **Learning**
 1. **HSB:** Module #3 - Prepare PPT Presentation
 2. **Quantum Computing:** Register for IBM-ID and learn and utilize free Quantum Computing Resources.
@@ -14,3 +14,9 @@
 - **Internship**
 9. **Interns Asparations:** TBD
 10. **SPI Requirements:** AI Driven Convinient Web Application to assist Startup and Investors.
+
+
+## Agenda: March 23, 2024
+- **Learning**
+- **Organization**
+- **Internship**

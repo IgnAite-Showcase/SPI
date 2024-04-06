@@ -2,8 +2,8 @@
 
 ## Agenda: April 4, 2024
 - **Learning**
-1. **HSB:** Module #4 - Prepare PPT Presentation
-2. **Gaming Development:** Introduction to Unity.
+1. **HSB:** Module #4 - Transforming Priduct & Services Firm into Platform Firm and Coopetition
+2. **Gaming Development:** Introduction to Unity and Game Development on multi platform.
 3. **Frontend Demo:** Automated Testing using Robotic Process Automation (RPA) UiPath Application.
 
 - **Organization**
@@ -13,7 +13,7 @@
 7. **IgnAite Website:** Demo, API Integration, Feedback, Showcase(SPI, BEATS, OPT, MOD, PCI)
 
 - **Internship**
-8. **Interns Asparations:** TBD
+8. **Interns Aspirations:** TBD
 9. **SPI Requirements:** AI Driven Convinient Web Application to assist Startup and Investors.
 10. **Innovation BEATS:** Innovation development platform to help organisations perform Research. 
 11. **Submission**: YCCE Deadline April 24

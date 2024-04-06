@@ -1,5 +1,24 @@
 # IgnAite Internship - Weekly Agenda
 
+## Agenda: April 4, 2024
+- **Learning**
+1. **HSB:** Module #4 - Prepare PPT Presentation
+2. **Gaming Development:** Introduction to Unity.
+3. **Frontend Demo:** Automated Testing using Robotic Process Automation (RPA) UiPath Application.
+
+- **Organization**
+4. **IgnAite:** Business Model
+5. **IgnAite I2C:** Innovation Center Logistics and Business Model
+6. **IgnAite Meet:** Plan for April In Person Meet.
+7. **IgnAite Website:** Demo, Feedback, Showcase(SPI, BEATS, OPT, MOD, PCI)
+
+- **Internship**
+8. **Interns Asparations:** TBD
+9. **SPI Requirements:** AI Driven Convinient Web Application to assist Startup and Investors.
+10. **Innovation BEATS:** Innovation development platform to help organisations perform Research. 
+11. **Submission**: YCCE Deadline April 24
+
+
 ## Agenda: March 30, 2024
 - **Learning**
 1. **HSB:** Module #3 - Prepare PPT Presentation

@@ -10,7 +10,7 @@
 4. **IgnAite:** Business Model
 5. **IgnAite I2C:** Innovation Center Logistics and Business Model
 6. **IgnAite Meet:** Plan for April In Person Meet.
-7. **IgnAite Website:** Demo, Feedback, Showcase(SPI, BEATS, OPT, MOD, PCI)
+7. **IgnAite Website:** Demo, API Integration, Feedback, Showcase(SPI, BEATS, OPT, MOD, PCI)
 
 - **Internship**
 8. **Interns Asparations:** TBD

@@ -28,6 +28,6 @@
 28. Smit Khobragade (RCOEM-4)
 29. Om Vispute GMT (6)
 30. Sophia Nikhar (3)
-31. Vedanshu Patel (1)
+31. """" Vedanshu Patel (1)"""""
 
 

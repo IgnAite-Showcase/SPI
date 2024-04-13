@@ -2,13 +2,13 @@
 
 ## Agenda: April 13, 2024
 - **Learning**
-1. **HSB:** Transforming Course Materials into Knowledge Base and Knowledge Graph for AI Training.
+1. **HBS:** Transforming Course Materials into Knowledge Base and Knowledge Graph for AI Training.
 2. **100 AI Use Cases:** Let's see what we can do with this new toy.
 3. **Anything Intresting:** Keep Learning and exploring with opportunities in mind
 
 - **Organization**
 4. **IgnAite LLC:** Business Model
-5. **IgnAite I2C:** Innovation Center Logistics and Business Model
+5. **IgnAite I2C:** IgnAite Innovation Center Logistics and Business Model
 6. **Innovation BEATS:** Platform for Innovate with Buss, Engg, Arch, Tech, Sci. 
 7. **IgnAite Meet:** Plan for April In Person Meet.
 8. **IgnAite Website:** API Integration, Feedback, Showcase(SPI, BEATS, OPT, MOD, PCI)

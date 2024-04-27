@@ -1,5 +1,26 @@
 # IgnAite Internship - Weekly Agenda
 
+## Agenda: April 27, 2024
+- **Learning**
+1. **Idea Generation:** Keep Learning and exploring with opportunities in mind
+2. **Automated Cat Litter**: ACL should able to automatically clean cat litterbox sand and
+3. **Geeta Mantra Pronounciation:** Platform for Innovate with Buss, Engg, Arch, Tech, Sci.
+4. **Weather Data Analytics:** Platform for Innovate with Buss, Engg, Arch, Tech, Sci.
+5. **Innovation BEATS:** Platform for Innovate with Buss, Engg, Arch, Tech, Sci. 
+
+- **Organization**
+4. **IgnAite LLC:** Business Model
+5. **IgnAite I2C:** IgnAite Innovation Center Logistics and Business Model
+6. 
+7. **IgnAite Meet:** Plan for April In Person Meet.
+8. **IgnAite Website:** API Integration, Feedback, Showcase(SPI, BEATS, OPT, MOD, PCI, Eye Pressure)
+
+- **Internship**
+9. **Interns Aspirations:** TBD
+10. **SPI Requirements:** AI Driven Convinient Web Application to assist Startup and Investors.
+11. **Submission**: Supervisor feedback April 15 SVP Done, YCCE Deadline June 24
+
+
 ## Agenda: April 20, 2024
 - **Learning**
 1. **Anything Intresting:** Keep Learning and exploring with opportunities in mind

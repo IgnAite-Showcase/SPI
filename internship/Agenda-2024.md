@@ -1,5 +1,21 @@
 # IgnAite Internship - Weekly Agenda
 
+## Agenda: May 05, 2024
+- **Learning**
+1. **IgnAite Website:** Build Core Requirements and Content of the IgnAite Website.
+2. **Innovation BEATS:**  Platform for Innovate with Buss, Engg, Arch, Tech, Sci.
+
+- **Organization**
+3. **IgnAite LLC:** Business Model, Business Pitch, Presentation Desk
+4. **IgnAite I2C:** IgnAite Innovation Center Logistics and Business Model
+5. **IgnAite APT:** IgnAite Aptitude Test for the new Interns. Anyone should able to register & test.
+6. **IgnAite Showcase:** API Integration, Feedback, Showcase(SPI, BEATS, OPT, MOD, PCI, Eye Pressure)
+
+- **Internship**
+7. **Member Portal:** Capture Interns Goals and Other details.
+8. **SPI Requirements:** AI Driven Convinient Web Application to assist Startup and Investors.
+9. **Submission**: Certificates, Supervisor feedback April 15 SVP Done, YCCE Deadline June 24
+
 ## Agenda: April 27, 2024
 - **Learning**
 1. **Idea Generation:** Keep Learning and exploring with opportunities in mind

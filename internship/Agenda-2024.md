@@ -8,13 +8,15 @@
 - **Organization**
 3. **IgnAite LLC:** Business Model, Business Pitch, Presentation Desk
 4. **IgnAite I2C:** IgnAite Innovation Center Logistics and Business Model
-5. **IgnAite APT:** IgnAite Aptitude Test for the new Interns. Anyone should able to register & test.
-6. **IgnAite Showcase:** API Integration, Feedback, Showcase(SPI, BEATS, OPT, MOD, PCI, Eye Pressure)
+5. **IgnAite Showcase:** API Integration, Feedback, Showcase(SPI, BEATS, OPT, MOD, PCI, Eye Pressure)
+6. **IgnAite Startup:** Registration of IgnAite Innovation Center as Startup.
 
-- **Internship**
+- **Internship Program**
 7. **Member Portal:** Capture Interns Goals and Other details.
-8. **SPI Requirements:** AI Driven Convinient Web Application to assist Startup and Investors.
-9. **Submission**: Certificates, Supervisor feedback April 15 SVP Done, YCCE Deadline June 24
+8. **IgnAite APT:** IgnAite Aptitude Test for the new Interns. Anyone should able to register & test.
+9. **IgnAite Internship:** Program Objectives, weekly Content and Overall Structucture
+10. **SPI Requirements:** AI Driven Convinient Web Application to assist Startup and Investors.
+11. **Submission**: Certificates, Supervisor feedback April 15 SVP Done, YCCE Deadline June 24
 
 ## Agenda: April 27, 2024
 - **Learning**

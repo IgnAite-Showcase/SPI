@@ -1,4 +1,12 @@
 # IgnAite Internship - Weekly Agenda
+SVP Certificates: May 19, 2024
+1. Aishwarya Umare: https://www.canva.com/design/DAGFu-GS5z4/ZEO7y0Vd8fS4W1mviijF3g/view
+2. Diksha Ladke: https://www.canva.com/design/DAGFuxMbF0k/F8NOL5v9fJK2RgWK5ycEYg/view
+3. Harsh Kalbande: https://www.canva.com/design/DAGFuwKhWUo/vQdaEOudC3QRvZ93i3y1oA/view
+4. Kunal Wadibhasme: https://www.canva.com/design/DAGFu2t6ADM/NEe1Og4EDe8Z5H1EQMBxwA/view
+5. Om Vishpute: https://www.canva.com/design/DAGFux2F3HA/rx0Alj9JS7T1WQeS-u91LQ/view
+6. Parth Burde: https://www.canva.com/design/DAGFu4SZayc/-E2MZUKebA7ehKnJC3en6g/view
+7. Sakshi Nirmal: https://www.canva.com/design/DAGFu5X5dyg/s0vrj9ZCWoPocCYhpHjbCQ/view
 
 ## Agenda: May 05, 2024
 - **Learning**

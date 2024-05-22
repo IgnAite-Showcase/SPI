@@ -1,4 +1,7 @@
 # IgnAite Internship - Weekly Agenda
+Other:
+1. Bhairavi Bhongade: https://www.canva.com/design/DAGF80mpYCU/zABfuNRvwrUkuSwguH6TGQ/view
+
 SVP Certificates: May 19, 2024
 1. Aishwarya Umare: https://www.canva.com/design/DAGFu-GS5z4/ZEO7y0Vd8fS4W1mviijF3g/view
 2. Diksha Ladke: https://www.canva.com/design/DAGFuxMbF0k/F8NOL5v9fJK2RgWK5ycEYg/view

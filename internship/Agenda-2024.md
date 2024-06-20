@@ -11,6 +11,22 @@ SVP Certificates: May 19, 2024
 6. Parth Burde: https://www.canva.com/design/DAGFu4SZayc/-E2MZUKebA7ehKnJC3en6g/view
 7. Sakshi Nirmal: https://www.canva.com/design/DAGFu5X5dyg/s0vrj9ZCWoPocCYhpHjbCQ/view
 
+YCCE June 19, 2024
+8. Shreyas Raut: https://www.canva.com/design/DAGIo-DSonc/JkP6xOhwFTvIAuVfoW4bFw/view
+9. Vedant Onkar: https://www.canva.com/design/DAGIo_dDNr0/J5KuyKXqYZCvRE8Q7KQOZw/view
+10. Geetika Mahant: https://www.canva.com/design/DAGIoz-BEp0/KuuuSOQsdGM8NlByr1r3WA/view
+11. Arpit Kumbhare: https://www.canva.com/design/DAGIo86QvSo/S-z0U0hiqcyNNLQUmfWqaA/view
+12. Praneel Thaker: https://www.canva.com/design/DAGIo01MkAI/GTSzBEZ5gP9j3aT3aOlyAg/view
+13. Aryan Kumar: https://www.canva.com/design/DAGIo_upqCQ/zBjNrv0iJH_QjBVFS0jZRg/view
+14. Smit Hiwale: https://www.canva.com/design/DAGIo4W3ZDI/vHll1MxvV_WE-2iHkz36GQ/view
+15. Suyog Kalmegh: https://www.canva.com/design/DAGIo4El9gE/oL9MxUpdgIJvSFkOB7eBeg/view
+16. Vaibhav Marodkar: https://www.canva.com/design/DAGIo77kTX0/V_2WevvmWweTpr6wwxzFng/view
+17. Vaibhav Gomkar: https://www.canva.com/design/DAGIo6yge50/a4vUzBJsCplSrad0g5jZ2w/view
+18. Pavan Madavi: https://www.canva.com/design/DAGIoxYBFfU/1iPHlmVsHL9aJ5c_1HCN3w/view
+19. Smruti Pawarv: https://www.canva.com/design/DAGIozh8dOs/lqqm4TVmveWBfwh0p5LqSA/view
+20. Mansi Sahu: https://www.canva.com/design/DAGIo88gfQA/WH1DHTYOkFpIa-rG79q1sA/view
+21. Aum Padole: https://www.canva.com/design/DAGIo_7ulyY/SvbRfKu79dfOUaWrxBLksQ/view
+
 ## Agenda: May 05, 2024
 - **Learning**
 1. **IgnAite Website:** Build Core Requirements and Content of the IgnAite Website.

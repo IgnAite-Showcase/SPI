@@ -27,7 +27,7 @@ YCCE June 19, 2024
 9. Vaibhav Marodkar: https://www.canva.com/design/DAGIo77kTX0/V_2WevvmWweTpr6wwxzFng/view
 10. Vaibhav Gomkar: https://www.canva.com/design/DAGIo6yge50/a4vUzBJsCplSrad0g5jZ2w/view
 11. Pavan Madavi: https://www.canva.com/design/DAGIoxYBFfU/1iPHlmVsHL9aJ5c_1HCN3w/view
-12. Smruti Pawarv: https://www.canva.com/design/DAGIozh8dOs/lqqm4TVmveWBfwh0p5LqSA/view
+12. Smruti Pawar: https://www.canva.com/design/DAGIozh8dOs/lqqm4TVmveWBfwh0p5LqSA/view
 13. Mansi Sahu: https://www.canva.com/design/DAGIo88gfQA/WH1DHTYOkFpIa-rG79q1sA/view
 14. Aum Padole: https://www.canva.com/design/DAGIo_7ulyY/SvbRfKu79dfOUaWrxBLksQ/view
 

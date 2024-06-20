@@ -23,13 +23,14 @@ YCCE June 19, 2024
 5. Praneel Thaker: https://www.canva.com/design/DAGIo01MkAI/GTSzBEZ5gP9j3aT3aOlyAg/view
 6. Aryan Kumar: https://www.canva.com/design/DAGIo_upqCQ/zBjNrv0iJH_QjBVFS0jZRg/view
 7. Smit Hiwale: https://www.canva.com/design/DAGIo4W3ZDI/vHll1MxvV_WE-2iHkz36GQ/view
-8. Suyog Kalmegh: https://www.canva.com/design/DAGIo4El9gE/oL9MxUpdgIJvSFkOB7eBeg/view
-9. Vaibhav Marodkar: https://www.canva.com/design/DAGIo77kTX0/V_2WevvmWweTpr6wwxzFng/view
-10. Vaibhav Gomkar: https://www.canva.com/design/DAGIo6yge50/a4vUzBJsCplSrad0g5jZ2w/view
-11. Pavan Madavi: https://www.canva.com/design/DAGIoxYBFfU/1iPHlmVsHL9aJ5c_1HCN3w/view
-12. Smruti Pawar: https://www.canva.com/design/DAGIozh8dOs/lqqm4TVmveWBfwh0p5LqSA/view
-13. Mansi Sahu: https://www.canva.com/design/DAGIo88gfQA/WH1DHTYOkFpIa-rG79q1sA/view
-14. Aum Padole: https://www.canva.com/design/DAGIo_7ulyY/SvbRfKu79dfOUaWrxBLksQ/view
+8. Amey Katre: https://www.canva.com/design/DAGIoytldpE/HWF6czGK2P5kE133MikZXA/view
+9. Suyog Kalmegh: https://www.canva.com/design/DAGIo4El9gE/oL9MxUpdgIJvSFkOB7eBeg/view
+10. Vaibhav Marodkar: https://www.canva.com/design/DAGIo77kTX0/V_2WevvmWweTpr6wwxzFng/view
+11. Vaibhav Gomkar: https://www.canva.com/design/DAGIo6yge50/a4vUzBJsCplSrad0g5jZ2w/view
+12. Pavan Madavi: https://www.canva.com/design/DAGIoxYBFfU/1iPHlmVsHL9aJ5c_1HCN3w/view
+13. Smruti Pawar: https://www.canva.com/design/DAGIozh8dOs/lqqm4TVmveWBfwh0p5LqSA/view
+14. Mansi Sahu: https://www.canva.com/design/DAGIo88gfQA/WH1DHTYOkFpIa-rG79q1sA/view
+15. Aum Padole: https://www.canva.com/design/DAGIo_7ulyY/SvbRfKu79dfOUaWrxBLksQ/view
 
 ## Agenda: May 05, 2024
 - **Learning**

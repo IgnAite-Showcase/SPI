@@ -1,6 +1,10 @@
 # IgnAite Internship - Weekly Agenda
 Other:
 1. Bhairavi Bhongade: https://www.canva.com/design/DAGF80mpYCU/zABfuNRvwrUkuSwguH6TGQ/view
+2. Vishakah Sharma: https://www.canva.com/design/DAGIo0yCcsE/pIePj7NfX3acf9sNV8Xuvg/view
+3. Smith Khobragade: https://www.canva.com/design/DAGIo0yCcsE/pIePj7NfX3acf9sNV8Xuvg/view
+4. Himanshu Thombre: https://www.canva.com/design/DAGIowWX1hM/1O8S0-vaahsYRK_rICG00w/view
+5. Ayush Dalal: https://www.canva.com/design/DAGIo3Qkxyg/Z0ZD5DDmbEpts2oFdAUNjQ/view
 
 SVP Certificates: May 19, 2024
 1. Aishwarya Umare: https://www.canva.com/design/DAGFu-GS5z4/ZEO7y0Vd8fS4W1mviijF3g/view
@@ -12,20 +16,20 @@ SVP Certificates: May 19, 2024
 7. Sakshi Nirmal: https://www.canva.com/design/DAGFu5X5dyg/s0vrj9ZCWoPocCYhpHjbCQ/view
 
 YCCE June 19, 2024
-8. Shreyas Raut: https://www.canva.com/design/DAGIo-DSonc/JkP6xOhwFTvIAuVfoW4bFw/view
-9. Vedant Onkar: https://www.canva.com/design/DAGIo_dDNr0/J5KuyKXqYZCvRE8Q7KQOZw/view
-10. Geetika Mahant: https://www.canva.com/design/DAGIoz-BEp0/KuuuSOQsdGM8NlByr1r3WA/view
-11. Arpit Kumbhare: https://www.canva.com/design/DAGIo86QvSo/S-z0U0hiqcyNNLQUmfWqaA/view
-12. Praneel Thaker: https://www.canva.com/design/DAGIo01MkAI/GTSzBEZ5gP9j3aT3aOlyAg/view
-13. Aryan Kumar: https://www.canva.com/design/DAGIo_upqCQ/zBjNrv0iJH_QjBVFS0jZRg/view
-14. Smit Hiwale: https://www.canva.com/design/DAGIo4W3ZDI/vHll1MxvV_WE-2iHkz36GQ/view
-15. Suyog Kalmegh: https://www.canva.com/design/DAGIo4El9gE/oL9MxUpdgIJvSFkOB7eBeg/view
-16. Vaibhav Marodkar: https://www.canva.com/design/DAGIo77kTX0/V_2WevvmWweTpr6wwxzFng/view
-17. Vaibhav Gomkar: https://www.canva.com/design/DAGIo6yge50/a4vUzBJsCplSrad0g5jZ2w/view
-18. Pavan Madavi: https://www.canva.com/design/DAGIoxYBFfU/1iPHlmVsHL9aJ5c_1HCN3w/view
-19. Smruti Pawarv: https://www.canva.com/design/DAGIozh8dOs/lqqm4TVmveWBfwh0p5LqSA/view
-20. Mansi Sahu: https://www.canva.com/design/DAGIo88gfQA/WH1DHTYOkFpIa-rG79q1sA/view
-21. Aum Padole: https://www.canva.com/design/DAGIo_7ulyY/SvbRfKu79dfOUaWrxBLksQ/view
+1. Shreyas Raut: https://www.canva.com/design/DAGIo-DSonc/JkP6xOhwFTvIAuVfoW4bFw/view
+2. Vedant Onkar: https://www.canva.com/design/DAGIo_dDNr0/J5KuyKXqYZCvRE8Q7KQOZw/view
+3. Geetika Mahant: https://www.canva.com/design/DAGIoz-BEp0/KuuuSOQsdGM8NlByr1r3WA/view
+4. Arpit Kumbhare: https://www.canva.com/design/DAGIo86QvSo/S-z0U0hiqcyNNLQUmfWqaA/view
+5. Praneel Thaker: https://www.canva.com/design/DAGIo01MkAI/GTSzBEZ5gP9j3aT3aOlyAg/view
+6. Aryan Kumar: https://www.canva.com/design/DAGIo_upqCQ/zBjNrv0iJH_QjBVFS0jZRg/view
+7. Smit Hiwale: https://www.canva.com/design/DAGIo4W3ZDI/vHll1MxvV_WE-2iHkz36GQ/view
+8. Suyog Kalmegh: https://www.canva.com/design/DAGIo4El9gE/oL9MxUpdgIJvSFkOB7eBeg/view
+9. Vaibhav Marodkar: https://www.canva.com/design/DAGIo77kTX0/V_2WevvmWweTpr6wwxzFng/view
+10. Vaibhav Gomkar: https://www.canva.com/design/DAGIo6yge50/a4vUzBJsCplSrad0g5jZ2w/view
+11. Pavan Madavi: https://www.canva.com/design/DAGIoxYBFfU/1iPHlmVsHL9aJ5c_1HCN3w/view
+12. Smruti Pawarv: https://www.canva.com/design/DAGIozh8dOs/lqqm4TVmveWBfwh0p5LqSA/view
+13. Mansi Sahu: https://www.canva.com/design/DAGIo88gfQA/WH1DHTYOkFpIa-rG79q1sA/view
+14. Aum Padole: https://www.canva.com/design/DAGIo_7ulyY/SvbRfKu79dfOUaWrxBLksQ/view
 
 ## Agenda: May 05, 2024
 - **Learning**

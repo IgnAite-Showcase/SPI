@@ -22,7 +22,24 @@
 10. SVP No Resume (30 short listed 7), YCCE Resume (Statrted 7 -> Added 8), RCOEM (10 needed stypend -> 1 S, 1 J)
 11. Candidate Screening not done properly.
 12. Submission Document (Manual - Supervisor Feedback, Performance, Attendance, Certificates)
+13. More interns with less quality experience. (Training - How to Work?)
+14. Doing work while learning Business Analysis.
+15. No Supervision, Responsibility and accountability while working from home remotely.
+16. Can not monitor or enforement if Student are using Cellphone v/s Laptop
+17. Accountability: Team Leads - Not ready for Leadership - No direction and productivity
+18. Responsibility: Individual - Larger Project Team (8) - No enforement and productivity
+19. Dependency and Conflicts:  
 
 #### What are suggessions:
-1. Screen Candidates: Application for Entrance Aptitude Exam and Shortlist
-2. Application: (BEATS Manage Idea, Initiatives, Tasks, Planning, Assignment, Validation Testing, Approval, Followup, Achivements, Attendance, Supervisor Feedback, Performance, Certificates)
+1. __Outreach__: Prepare Flyer and Distribute Flyers to Colleges and Contacts for intrested candidates IT related (BE, MAC, BCA).
+2. __Candidates__: Intrests: List of candidates demographics, Resume (TNP, Contacts)
+3. __Screening__: Application for everyone Entrance Aptitude Exam and Shortlist. Choices Build v/s Buy approach.
+4. __Utility__: (BEATS Manage Idea, Initiatives, Tasks, Planning, Assignment, Validation Testing, Approval, Followup, Achivements, Attendance, Supervisor Feedback, Performance, Certificates)
+5. __Orientation__: Training Interns (Agile Project Management, Business Analysis, Work Breakdown Task, How to accomplish Tasks, Choices based on Preferences)
+6. __Ignite__: Website Improvement (Meet, Blogs, Reviews, Organization, Success Stories, Theams, Showcase)
+7. __Theams__: New Theam for the intership event (Data Analytics).
+8. __Submission__: Upload Submission and provide Review Feedback
+9. __Innovation__: Ignite Innovation Center (I2C) Students can work onsite or College Incubation Center.
+10. __Program__: IgnAite Program outlining syllabus (Weekly basis) and Objectives and Delivarables.
+11. __Personalized__: Internship hold individual Intern (Responsible) from Idea to Implementation while working with Mentor(Accountable).
+12. 
